@@ -1,0 +1,596 @@
+[System]			
+0	ファイル	File	File
+1	目標クリア	Target Initialize	Target Initialize
+2	データクリア	User Data Clear	User Data Clear
+3	終了	Exit	Exit
+4	オペレータ所持率	Operator Possession Rate	Operator Possession Rate
+5	グローバル版 :	Global Server :	Global Server :
+6	大陸版 :	China Server :	China Server :
+7	ツール	Tool	Tool
+8	素材加工表	Material Processes	Material Processes
+9	オペレータ育成登録	Operator Grow Register	Operator Grow Register
+10	素材ドロップ＆加工登録	Material Drop&&Process Regiter	Material Drop&&Process Regiter
+11	列表示フィルタ	Culumn Display Filter	Culumn Display Filter
+12	アプリケーションの位置とサイズと記憶する	Save to Application Size＆Position	Save to Application Size＆Position
+13	出力	Export	Export
+14	Penguin Statistics形式	Penguin Statistics Format	Penguin Statistics Format
+15	情報	Information	Information
+16	コード	Code	Code
+17	レア	Ra re	Ra re
+18	オペレータ名	Operator	Operator
+19	潜在	Pote ntial	Pote ntial
+20	信頼度	Trust	Trust
+21	逆理演算	Para dox	Para dox
+22	現在	Cur	Cur
+23	目標	Tgt	Tgt
+24	昇進	Elite	Elite
+25	レベル	Level	Level
+26	スキル	Skill	Skill
+27	特化	Mastery	Mastery
+28	モジュール	Module	Module
+29	グループ	Group	Group
+30	ソートリセット	Sort Reset	Sort Reset
+31	目標一括入力	Target All Input	Target All Input
+32	フィルタ	Filter	Filter
+33	フィルタリセット	Filter Reset	Filter Reset
+34	表示：	Calc Group：	Calc Group：
+35	未所持オペレータを計算に含まない	Not include unpossessing operators in the calc.	Not include unpossessing operators in the calc.
+36	グローバル版未実装オペレータを計算に含まない	Not include the Global Server unimplemented operator in the calc.	Not include the Global Server unimplemented operator in the calc.
+37	素材名	Material Name	Material Name
+38	所持数	Have	Have
+39	加工割合	Proc. %	Proc. %
+40	必要数	Need	Need
+41	加工反映	Proc. Influ.	Proc. Influ.
+42	不足数	Lack	Lack
+43	余り	Remain	Remain
+44	加工生成物	Processing Product	Processing Product
+45	加工必要素材	Processing use material	Processing use material
+46	素材	Material	Material
+47	数	Cnt	Cnt
+48	対象レアリティ	Target Rarity	Target Rarity
+49	レアリティ	Rarity	Rarity
+50	クラス	Class	Class
+51	用途別クラス	Classes by Use	Classes by Use
+52	性別	Sex	Sex
+53	種族	Race	Race
+54	陣営	Faction	Faction
+55	出身地	Place of Birth	Place of Birth
+56	登録	Register	Register
+57	所持/未所持	Pos/Unpos	Pos/Unpos
+58	所持	Possession	Possession
+59	未所持	UnPossession	UnPossession
+60	実装/未実装	Imple/Unimple	Imple/Unimple
+61	実装	Implement	Implement
+62	未実装	UnImplement	UnImplement
+63	目標達成	Acomplish	Acomplish
+64	達成	Acomplished	Acomplished
+65	未達成	NotAcomplish	NotAcomplish
+66	メインフォームのオペレータ名をダブルクリックしてリストへ追加してください	Add to the list below by Double-Click the Operator Name from the list of operators in the Main Form	Add to the list below by Double-Click the Operator Name from the list of operators in the Main Form
+67	メインフォームの素材名をダブルクリックしてリストへ追加してください	Add to the list below by Double-Click the Material Name from the list of materials in the Main Form	Add to the list below by Double-Click the Material Name from the list of materials in the Main Form
+68	または、右のリストからステージを選択してAddボタンを押すと、そのステージでドロップする素材を下のリストへ追加できます	Or,when you select a stage from the drop-down list on the right, the materials to be dropped in that stage will be added to the list.	Or,when you select a stage from the drop-down list on the right, the materials to be dropped in that stage will be added to the list.
+69	今まで使った素材の数を覚えているか？	Do you remember how many materials you've used so far?	Do you remember how many materials you've used so far?
+[Sex]			
+0	男	Male	Male
+1	女	Female	Female
+2	断罪	Conviction	Conviction
+[Class]			
+0	先鋒	Vanguard	Vanguard
+1	狙撃	Sniper	Sniper
+2	医療	Medic	Medic
+3	術師	Caster	Caster
+4	前衛	Guard	Guard
+5	重装	Defender	Defender
+6	補助	Supporter	Supporter
+7	特殊	Specialist	Specialist
+[ByUse]			
+[Vanguard]			
+0	突撃兵	Assault	冲锋手
+1	先駆兵	Pioneer	尖兵
+2	戦術家	Tactician	战术家
+3	旗手	Flagbearer	执旗手
+4	情報官	Intelligence	情报官
+[Sniper]			
+0	速射手	Rapid Fire	速射手
+1	散弾射手	Spreadshooter	散射手
+2	戦術射手	Close Range	重射手
+3	破城射手	Siege	攻城手
+4	榴弾射手	Splash	炮手
+5	投擲手	Bombardier	投掷手
+6	精密射手	Long Range	神射手
+[Medic]			
+0	医師	Physician	医师
+1	療養師	Ring Healer	疗养师
+2	群癒師	Mender	群愈师
+3	放浪医	Wandering Medic	行医
+4	呪癒師	Incantationmedic	咒愈师
+5	連鎖癒師	Chain Medic	链愈师
+[Caster]			
+0	中堅術師	Core	中坚术士
+1	法陣術師	Phalanx	阵法术士
+2	拡散術師	Splash	扩散术士
+3	秘術師	Mystic	秘术士
+4	爆撃術師	Blast	轰击术士
+5	操機術師	Drone	驭械术士
+6	連鎖術師	Chain	链术士
+[Guard]			
+0	強襲者	Centurion	强攻手
+1	剣豪	Dual-Strike	剑豪
+2	闘士	Brawler	斗士
+3	武者	Musha	武者
+4	術戦士	Spellblade	术战者
+5	勇士	Fearless	无畏者
+6	教官	Instructor	教官
+7	鎌撃士	Reaper	收割者
+8	領主	Lord	领主
+9	解放者	Liberator	解放者
+10	重剣手	Crusher	重剑手
+[Defender]			
+0	重盾衛士	Protector	铁卫
+1	術技衛士	Arts Ironguard	驭法铁卫
+2	庇護衛士	Gurdian	守护者
+3	決闘者	Duelist	决战者
+4	破壊者	Unyielding	不屈者
+5	堅城砲士	Fortress	要塞
+6	哨戒衛士	Patrol	哨戒铁卫
+[Supporter]			
+0	緩速師	Slower	凝滞师
+1	祈祷師	Blessing	护佑者
+2	呪詛師	Witherer	削弱者
+3	召喚師	Summoner	召唤师
+4	吟遊者	Bard	吟游者
+5	工匠	Artificer	工匠
+[Specialist]			
+0	執行者	Executor	处决者
+1	潜伏者	Stalker	伏击客
+2	罠師	Trapper	陷阱师
+3	行商人	Merchant	行商
+4	鉤縄師	Puller	钩索师
+5	傀儡師	Puppeteer	傀儡师
+6	推撃手	Pusher	推击手
+7	鬼才	Geek	怪杰
+[Race]			
+0	アスラン	Aslan	Aslan
+1	アダクリス	Archosauria	Archosauria
+2	アナティ	Anaty	Anaty
+3	アヌーラ	Anura	Anura
+4	イトラ	Itra	Itra
+5	ウルサス	Ursus	Ursus
+6	ヴァルポ	Vulpo	Vulpo
+7	ヴイーヴル	Vouivre	Vouivre
+8	エーギル	Aegir	Aegir
+9	エラフィア	Elafia	Elafia
+10	鬼	Oni	Oni
+11	キャプリニー	Caprinae	Caprinae
+12	麒麟	Kylin	Kylin
+13	クランタ	Kuranta	Kuranta
+14	コータス	Cautus	Cautus
+15	サルカズ	Sarkaz	Sarkaz
+16	サンクタ	Sankta	Sankta
+17	サヴラ	Savra	Savra
+18	ザラック	Zalak	Zalak
+19	ドゥリン	Durin	Durin
+20	ドラコ	Draco	Draco
+21	フェリーン	Feline	Feline
+22	フォルテ	Forte	Forte
+23	ペッロー	Perro	Perro
+24	ペートラム	Petram	Petram
+25	マンティコア	Manticore	Manticore
+26	リーベリ	Liberi	Liberi
+27	龍	Lung	Lung
+28	ループス	Lupo	Lupo
+29	レプロバ	Rebbah	Rebbah
+30	ロボット	Robot	Robot
+31	ピロサ	Pillosa	Pillosa
+32	フィディア	Fidelity	Fidelity
+33	セラト	Cerrato	Cerrato
+99	不明/未公開	Unknown/Undisclosed	Unknown/Undisclosed
+[Faction]			
+0	ウルサス	Ursus	Ursus
+1	ウルサス学生自治団	Ursus Student Self-Gover. Gr.	Ursus Student Self-Gover. Gr.
+2	龍門	Lungmen	Lungmen
+3	龍門近衛局	Lungmen Guard Department	Lungmen Guard Department
+4	リー探偵事務所	Lee's Detective Agency	Lee's Detective Agency
+5	ペンギン急便	Penguin Logistics	Penguin Logistics
+6	炎国	Yan	Yan
+7	歳	Sui	Sui
+8	極東	Higashi	Higashi
+9	ラテラーノ	Laterano	Laterano
+10	リターニア	Leithania	Leithania
+11	カランド貿易	Karlan Trade	Karlan Trade
+12	ヴィクトリア	Victoria	Victoria
+13	グラスゴー	Glasgow	Glasgow
+14	レム・ビリトン	Rim Billiton	Rim Billiton
+15	カジミエーシュ	Kazimierz	Kazimierz
+16	レッドパイン騎士団	Pinus Sylvestris	Pinus Sylvestris
+17	シラクーザ	Siracusa	Siracusa
+18	キアーベ一味	Chiave's Gang	Chiave's Gang
+19	クルビア	Columbia	Columbia
+20	BSW	BSW	BSW
+21	ライン生命	Rhine Lab	Rhine Lab
+22	サルゴン	Sargon	Sargon
+23	サーミ	Sami	Sami
+24	シエスタ	Siesta	Siesta
+25	ボリバル	Bolívar	Bolívar
+26	ミノス	Minos	Minos
+27	エーギル	Aegir	Aegir
+28	アビサル	Abyssal	Abyssal
+29	イベリア	Iberia	Iberia
+30	ロドス・アイランド	Rhodes Island	Rhodes Island
+31	行動予備隊A1	Op Reserve A1	Op Reserve A1
+32	行動予備隊A4	Op Reserve A4	Op Reserve A4
+33	行動予備隊A6	Op Reserve A6	Op Reserve A6
+34	行動隊A4	Op A4	Op A4
+35	使徒	Followers	Followers
+36	エリートオペレーター	Elite Op	Elite Op
+37	S.W.E.E.P.	S.W.E.E.P.	S.W.E.E.P.
+38	バベル	Babel	Babel
+39	レインボー小隊	Team Rainbow	Team Rainbow
+[Place]			
+0	ウルサス	Ursus	Ursus
+1	龍門	Lungmen	Lungmen
+2	炎国	Yen	Yen
+3	極東	Far East	Far East
+4	ラテラーノ	Laterano	Laterano
+5	リターニア	Leithanien	Leithanien
+6	イェラグ	Kjerag	Kjerag
+7	ヴィクトリア	Victoria	Victoria
+8	レム・ビリトン	Rim Billiton	Rim Billiton
+9	カジミエーシュ	Kazimierz	Kazimierz
+10	シラクーザ	Siracusa	Siracusa
+11	カズデル	Kazdale	Kazdale
+12	クルビア	Columbia	Columbia
+13	サルゴン	Sargon	Sargon
+14	サーミ	Sami	Sami
+15	シエスタ	Siesta 	Siesta 
+16	ボリバル	Bolívar	Bolívar
+17	ミノス	Minos	Minos
+18	ヴイーヴル	Vouivre	Vouivre
+19	エーギル	Aegir	Aegir
+20	イベリア	Iberia	Iberia
+21	ロドス・アイランド	Rhodes Island	Rhodes Island
+22	ドゥリン	Durin	Durin
+99	不明/未公開	Unknown/Undisclosed	Unknown/Undisclosed
+[Operator]			
+LM04	チェン	Ch'en	陈
+GG01	シージ	Siege	推进之王
+FO01	シャイニング	Shining	闪灵
+FO03	ナイチンゲール	Nightingale	夜莺
+RL03	イフリータ	Ifrit	伊芙利特
+LN02	エイヤフィヤトラ	Eyjafjalla	艾雅法拉
+PL03	エクシア	Exusiai	能天使
+SR02	アンジェリーナ	Angelina	安洁莉娜
+JC01	シルバーアッシュ	SilverAsh	银灰
+LM05	ホシグマ	Hoshiguma	星熊
+RL02	サリア	Saria	塞雷娅
+AA01	スカジ	Skadi	斯卡蒂
+SS02	シュヴァルツ	Schwarz	黑
+AZ01	ヘラグ	Hellagur	赫拉格
+RL06	マゼラン	Magallan	麦哲伦
+LT77	モスティマ	Mostima	莫斯提马
+RE41	ブレイズ	Blaze	煌
+LM20	ア	Aak	阿
+NM01	ニェン	Nian	年
+R155	ケオベ	Ceobe	刻俄柏
+RV02	バグパイプ	Bagpipe	风笛
+R109	ファントム	Phantom	傀影
+B214	W	W	W
+R117	ウィーディ	Weedy	温蒂
+USS4	ロサ	Rosa	早露
+R172	スズラン	Suzuran	铃兰
+II01	ソーンズ	Thorns	棘刺
+SG03	ユーネクテス	Eunectes	森蚺
+R111	スルト	Surtr	史尔特尔
+KZ09	ブレミシャイン	Blemishine	瑕光
+RE45	ロスモンティス	Rosmontis	迷迭香
+R159	マドロック	Mudrock	泥岩
+CB05	マウンテン	Mountain	山
+LT08	アルケット	Archetto	空弦
+NM02	シー	Dusk	夕
+HK13	サガ	Saga	嵯峨
+RS01	Ash	Ash	灰烬
+SG07	パッセンジャー	Passenger	异客
+CR01	濁心スカジ	Skadi C.H.	浊心斯卡蒂
+B003	ケルシー	kal'tsit	凯尔希
+AA05	グレイディーア	Gladiia	歌蕾蒂娅
+LN04	カーネリアン	Carnelian	卡涅利安
+MN04	パラス	Pallas	帕拉斯
+R112	遊龍チェン	Ch'en H.D.	假日威龙陈
+HK07	ミヅキ	Mizuki	水月
+VC10	サイラッハ	Saileach	琴柳
+KZ13	ファートゥース	Fartooth	远牙
+KZ01	耀騎士ニアール	Nearl R.K.	耀骑士临光
+KZ11	フレイムテイル	Flametail	焰尾
+JC02	ノーシス	Gnosis	灵知
+NM03	リィン	Ling	令
+LM18	リー	Lee	老鲤
+VC09	ゴールデングロー	Goldenglow	澄闪
+LT11	フィアメッタ	Fiammetta	菲亚梅塔
+VC16	ホルン	Horn	号角
+II07	アイリーニ	Irene	艾丽妮
+CR02	帰溟スペクター	Specter U.C.	归溟幽灵鲨
+II09	ルーメン	Lumen	流明
+LN05	エバンホルツ	Ebenholz	黑键
+RL07	ドロシー	Dorothy	多萝西
+RF22	百錬ガヴィル	Gavial I.V.	百炼嘉维尔
+R145	パズィオンカ	Pozemka	鸿雪
+KZ08	ムリナール	Mlynar	玛恩纳
+VC17	ステインレス	Stainless	白铁
+RB01	サベージ	Savage	暴行
+PL02	テキサス	Texas	德克萨斯
+USS1	ズィマー	Zima	凛冬
+RL04	フィリオプシス	Ptilopsis	白面鸮
+RL01	サイレンス	Silence	赫默
+R106	ワルファリン	Warfarin	华法琳
+R001	アーミヤ	Amiya	阿米娅
+R001_2	昇格アーミヤ	Amiya Alter	阿米娅(近卫)
+VC03	ナイトメア	Nightmare	夜魔
+SK01	スカイフレア	Skyfire	天火
+SW01	レッド	Projekt Red	红
+SG01	マンティコア	Manticore	狮蝎
+JC06	クリフハート	Cliffheart	崖心
+YD01	エフイーター	FEater	食铁兽
+SR03	プロヴァンス	Provence	普罗旺斯
+AA03	アズリウス	Blue Poison	蓝毒
+ST01	ファイヤーウォッチ	Firewatch	守林人
+ST03	メテオリーテ	Meteorite	陨星
+KZ03	プラチナ	Platinum	白金
+JC05	プラマニクス	Pramanix	初雪
+USS2	イースチナ	Istina	真理
+RL05	メイヤー	Mayer	梅尔
+PL05	ソラ	Sora	空
+BS01	フランカ	Franka	芙兰卡
+AA02	スペクター	Specter	幽灵鲨
+GG03	インドラ	Indra	因陀罗
+SR01	ラップランド	Lappland	拉普兰德
+FO02	ニアール	Nearl	临光
+BS02	リスカム	Liskarm	雷蛇
+MN02	ヴァルカン	Vulcan	火神
+PL04	クロワッサン	Croissant	可颂
+VC05	グラニ	Grani	格拉尼
+LM08	スワイヤー	Swire	诗怀雅
+R128	グラウコス	Glaucus	格劳克斯
+SS01	セイロン	Ceylon	锡兰
+RR01	アステシア	Astesia	星极
+R137	エンカク	Flamebringer	炎客
+LT01	イグゼキュター	Executor	送葬人
+R132	ブリーズ	Breeze	微风
+LM12	ワイフー	Waai Fu	槐琥
+LM15	バイソン	Bison	拜松
+HT03	リード	Reed	苇草
+SR27	ブローカ	Broca	布洛卡
+R110	グレースロート	GreyThroat	灰喉
+LM16	スノーズント	Snowsant	雪雉
+LM19	ウン	Hung	吽
+YD05	レイズ	Leizi	惊蛰
+R138	バイビーク	Bibeak	柏喙
+R158	シェーシャ	Sesa	慑砂
+R148	シャマレ	Shamare	巫恋
+R126	シデロカ	Sideroca	铸铁
+R131	エリジウム	Elysium	极境
+RB05	アスベストス	Asbestos	石棉
+R129	ツキノギ	Tsukinogi	月禾
+US11	アブサント	Absinthe	苦艾
+RB03	レオンハルト	Leonhardt	莱恩哈特
+RB04	エアースカーペ	Ayerscarpe	断崖
+R133	フォリニック	Folinic	亚叶
+R147	ビーズワクス	Beeswax	蜜蜡
+SR26	キアーベ	Chiave	贾维
+R162	シーン	Scene	稀音
+II04	アンドレアナ	Andreana	安哲拉
+SG05	トミミ	Tomimi	特米米
+SG06	フリント	Flint	燧石
+VC08	ミント	Mint	薄绿
+RB07	エイプリル	April	四月
+SR28	アオスタ	Aosta	奥斯塔
+KZ07	ウィスラッシュ	Whislash	鞭刃
+R163	ウィスパーレイン	Whisperain	絮雨
+CB06	カフカ	Kafka	卡夫卡
+CB08	ロビン	Robin	罗宾
+VC12	アイリス	Iris	爱丽丝
+SG08	トゥイェ	Tuye	图耶
+RF01	炎獄ラヴァ	Purgatory	炎狱炎熔
+YD11	ウユウ	Mr.Nothing	乌有
+RS03	Frost	Frost	霜华
+RS02	Blitz	Blitz	闪击
+RS04	Tachanka	Tachanka	战车
+VC11	トギフォンス	Toddifons	熔泉
+R164	ヘビーレイン	Heavyrain	暴雨
+HK04	アカフユ	Akafuyu	赤冬
+HK05	キララ	Kirara	绮良
+VC14	ベナ	Bena	贝娜
+BV13	ラ・プルマ	La Pluma	羽毛笔
+BV12	テキーラ	Tequila	龙舌兰
+YD03	マルベリー	Mulberry	桑葚
+KZ12	アッシュロック	Ashlock	灰毫
+CB12	コロセラム	Corroserum	蚀清
+RB06	ハニーベリー	Honeyberry	蜜莓
+KZ14	ワイルドメイン	Wild Mane	野鬃
+JC09	オーロラ	Aurora	极光
+JC00	イェラ	Kjera	耶拉
+VC07	シャレム	Shalem	暮落
+YD09	クシキロク	9Color Deer	九色鹿
+RB12	ブラックナイト	Blacknight	夜半
+RF02	寒芒クルース	Kroos K.G.	寒芒克洛丝
+R121	クエルクス	Quercus	夏栎
+LT10	エンフォーサー	Enforcer	见行者
+HK09	カゼマル	Kazemaru	风丸
+VC18	ロックロック	Rockrock	洛洛
+VC19	ハイディ	Heidi	海蒂
+CB19	ウィンドフリット	Windflit	掠风
+MN07	エラト	Erato	埃拉托
+LN06	ツェルニー	Czerny	车尔尼
+RF03	濯塵ハイビスカス	Hibiscus P.F.	濯尘芙蓉
+RL08	アステジーニ	Astgenne	星源
+RF23	承曦グレイ	Greyy L.B.	承曦格雷伊
+R143	カンタービレ	Cantabile	晓歌
+SG09	ミニマリスト	Minimalist	至简
+KZ10	プロヴァイゾ	Proviso	但书
+II10	ハイモア	Highmore	海沫
+R175	パプリカ	Paprika	明椒
+GG04	ダグザ	Dagda	达格达
+JC04	クーリエ	Courier	讯使
+SW02	スカベンジャー	Scavenger	清道夫
+R105	ヴィグナ	Vigna	红豆
+R104	ミルラ	Myrrh	末药
+IU07	ガヴィル	Gavial	嘉维尔
+MN03	パフューマー	Perfumer	调香师
+VC02	ヘイズ	Haze	夜烟
+SI01	ギターノ	Gitano	远山
+KZ04	グラベル	Gravel	砾
+RB02	ロープ	Rope	暗索
+LM11	ショウ	Shaw	阿消
+LM10	シラユキ	ShiraYuki	白雪
+ST02	メテオ	Meteor	流星
+BS03	ジェシカ	Jessica	杰西卡
+AA04	ディピカ	Deepcolor	深海色
+LN01	アーススピリット	Earthspirit	地灵
+R100	ドーベルマン	Dobermann	杜宾
+IU04	エステル	Estelle	艾丝黛尔
+US10	ビーハンター	Beehunter	猎蜂
+VC04	ムース	Mousse	慕斯
+R123	フロストリーフ	Frostleaf	霜叶
+HK01	マトイマル	Matoimaru	缠丸
+IU05	クオーラ	Cuora	蛇屠箱
+USS3	グム	Gummy	古米
+JC03	マッターホルン	Matterhorn	角峰
+R119	グレイ	Greyy	格雷伊
+R107	ススーロ	Sussurro	苏苏洛
+R108	テンニンカ	Myrtle	桃金娘
+R124	ジュナー	Dur-nar	坚雷
+R122	ヴァーミル	Vermeil	红云
+R130	イーサン	Ethan	伊桑
+VC01	メイ	May	梅
+LT02	アンブリエル	Ambriel	安比尔
+R160	セイリュウ	Purestream	清流
+HK03	ウタゲ	Utage	宴
+MN01	コンビクション	Conviction	断罪者
+R144	カッター	Cutter	刻刀
+R157	ポデンコ	Podenco	波登可
+R140	カシャ	Click	卡达
+LM14	ジェイ	Jaye	孑
+R139	アシッドドロップ	Aciddrop	酸糖
+LT06	アレーン	Arene	芳汀
+R146	バブル	Bubble	泡泡
+R166	ジャッキー	Jackie	杰克
+CB09	パインコーン 	Pinecone	松果
+CB16	ビーンストーク	Beanstalk	豆苗
+II05	インディゴ	Indigo	深靛
+CB11	ロベルタ	Roberta	罗比菈塔
+CB03	プリン	Pudding	布丁
+R134	チェストナット	Chestnut	褐果
+R161	羅小黒	Luo Xiaiohei	罗小黑
+SG11	トター	Totter	铅踝
+PA11	フェン	Fang	芬
+BS04	バニラ	Vanilla	香草
+LT05	プリュム	Plume	翎羽
+PA13	ハイビスカス	Hibiscus	芙蓉
+PA43	アンセル	Ansel	安赛尔
+PA15	ラヴァ	Lava	炎熔
+PA42	スチュワード	Steward	史都华德
+PA12	クルース	Kroos	克洛丝
+PA44	アドナキエル	Adnachiel	安德切尔
+PA61	オーキッド	Orchid	梓兰
+PA41	メランサ	Melantha	玫兰莎
+PA14	ビーグル	Beagle	米格鲁
+PA45	カーディ	Cardigan	卡缇
+PA63	カタパルト	Catapult	空爆
+PA62	ミッドナイト	Midnight	月见夜
+PA65	ポプカル	Popukar	泡普卡
+PA64	スポット	Spot	斑点
+A41	ヤトウ	Yato	夜刀
+A44	ドゥリン	Durin	杜林
+R303	12F	12F	12F
+A42	レンジャー	Rangers	巡林者
+A43	ノイルホーン	Noir Corne	黑角
+RCX2	Lancet-2	Lancet-2	Lancet-2
+RCX3	Castle-3	Castle-3	Castle-3
+RCX4	Thermal-EX	Thermal-EX	Thermal-EX
+KZ15	Justice Knight	Justice Knight	正义骑士号
+[Material]			
+1	上級作戦記録	Strategic B.R.	高级作战记录
+2	中級作戦記録	Tactical B.R.	中级作战记录
+3	初級作戦記録	Frontline B.R.	初级作战记录
+4	入門作戦記録	Drill B.R.	基础作战记录
+1000	経験値	Experience	经验值
+2000	龍門幣	Lungmen Coin	龙门币
+20	購買資格証	Shop Voucher	采购凭证
+30051	アケトン試剤	Diketon	双酮
+30052	初級アケトン	Polyketon	酮凝集
+30053	中級アケトン	Aketon	酮凝集组
+30054	上級アケトン	Keton Colloid	酮阵列
+30041	異鉄の欠片	Oriron Shard	异铁碎片
+30042	初級異鉄	Oriron	异铁
+30043	中級異鉄	Oriron Cluster	异铁组
+30044	上級異鉄	Oriron Block	异铁块
+30021	ブドウ糖	Sugar Substitute	代糖
+30022	初級糖原	Sugar	糖
+30023	中級糖原	Sugar Pack	糖组
+30024	上級糖原	Sugar Lump	糖聚块
+30031	エステル原料	Ester	酯原料
+30032	初級エステル	Polyester	聚酸酯
+30033	中級エステル	Polyester Pack	聚酸酯组
+30034	上級エステル	Polyester Lump	聚酸酯块
+30061	破損装置	Damaged Device	破损装置
+30062	初級装置	Device	装置
+30063	中級装置	Integrated Device	全新装置
+30064	上級装置	Optimized Device	改量装置
+30011	源岩鉱	Orirock	源岩
+30012	初級源岩	Orirock Cube	固源岩
+30013	中級源岩	Orirock Cluster	固源岩组
+30014	上級源岩	Orirock Concent.	提纯源岩
+30103	RMA70-12	RMA70-12	RMA70-12
+30104	RMA70-24	RMA70-24	RMA70-24
+30083	マンガン	Mangan. Ore	轻锰矿
+30084	上級マンガン	Mangan. Trihyd.	三水锰矿
+30093	砥石	Grindstone	研磨石
+30094	上級砥石	Grindstone Penta.	五水研磨石
+30073	合成コール	Loxic Kohl	扭转醇
+30074	上級合成コール	White Horse Kohl	白马醇
+30115	融合剤	Polymer. Prep.	聚合剂
+30125	ナノフレーク	Bipolar Nanoflake	双极纳米片
+30135	D32鋼	D32 Steel	D32钢
+31023	熾合金	Incan. Alloy	炽合金
+31024	上級熾合金	Incan. Alloy Block	炽合金块
+31013	人工ゲル	Coagulating Gel	凝胶
+31014	融合ゲル	Polymerized Gel	聚合凝胶
+31033	素子結晶	Crystal Compo.	晶体元件
+31034	結晶回路	Crystal Circuits	晶体电路
+30145	結晶制御装置	Crystal Ele. Units	晶体电子单元
+31043	半自然溶剤	Semi-natural Sol.	半自然溶剂
+31044	精錬溶剤	Refined Solvent	精炼溶剂
+31053	切削液	Comp. Cut. Fluid	化合切削剤
+31054	上級切削液	Cut. Stock Solution	切削原液
+30155	焼結核凝晶	(Sintered Nodule Condensation)	烧结核凝晶
+31063	転質塩	(Transmass Salt Pack)	转质盐组
+31064	上級転質塩	(Transmass Salt Lump)	转质盐聚块
+3000	モジュールデータ	Module Data Block	模组数据块
+3001	データ補強棒	(Data Rein. Bar)	数据增补条
+3002	データ補強機	(Data Aug. Machine)	数据增补仪
+11	アーツ学1	Skill Summary 1	技巧概要·卷1
+12	アーツ学2	Skill Summary 2	技巧概要·卷2
+13	アーツ学3	Skill Summary 3	技巧概要·卷3
+21	SoC強化剤	Chip Catalyst	芯片助剂
+22	初級前衛SoC	Guard Chip	近卫芯片
+23	中級前衛SoC	Guard Chip Pack	近卫芯片组
+24	上級前衛SoC	Guard Dual Chip	近卫双芯片
+25	初級狙撃SoC	Sniper Chip	狙击芯片
+26	中級狙撃SoC	Sniper Chip Pack	狙击芯片组
+27	上級狙撃SoC	Sniper Dual Chip	狙击双芯片
+28	初級術師SoC	Caster Chip	术师芯片
+29	中級術師SoC	Caster Chip Pack	术师芯片组
+30	上級術師SoC	Caster Dual Chip	术师双芯片
+31	初級医療SoC	Medic Chip	医疗芯片
+32	中級医療SoC	Medic Chip Pack	医疗芯片组
+33	上級医療SoC	Medic Dual Chip	医疗双芯片
+34	初級重装SoC	Defender Chip	重装芯片
+35	中級重装SoC	Def. Chip Pack	重装芯片组
+36	上級重装SoC	Def. Dual Chip	重装双芯片
+37	初級先鋒SoC	Vanguard Chip	先锋芯片
+38	中級先鋒SoC	Vang. Chip Pack	先锋芯片组
+39	上級先鋒SoC	Vang. Dual Chip	先锋双芯片
+40	初級補助SoC	Supporter Chip	辅助芯片
+41	中級補助SoC	Sup. Chip Pack	辅助芯片组
+42	上級補助SoC	Sup. Dual Chip	辅助双芯片
+43	初級特殊SoC	Specialist Chip	特种芯片
+44	中級特殊SoC	Spec. Chip Pack	特种芯片组
+45	上級特殊SoC	Spec. Dual Chip	特种双芯片
