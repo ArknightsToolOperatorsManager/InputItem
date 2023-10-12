@@ -12,67 +12,69 @@
 10	素材ドロップ＆加工登録	Material Drop&&Process Regiter	Material Drop&&Process Regiter
 11	列表示フィルタ	Culumn Display Filter	Culumn Display Filter
 12	アプリケーションの位置とサイズと記憶する	Save to Application Size＆Position	Save to Application Size＆Position
-13	出力	Export	Export
-14	Penguin Statistics形式	Penguin Statistics Format	Penguin Statistics Format
-15	情報	Information	Information
-16	コード	Code	Code
-17	レア	Ra re	Ra re
-18	オペレータ名	Operator	Operator
-19	潜在	Pote ntial	Pote ntial
-20	信頼度	Trust	Trust
-21	逆理演算	Para dox	Para dox
-22	現在	Cur	Cur
-23	目標	Tgt	Tgt
-24	昇進	Elite	Elite
-25	レベル	Level	Level
-26	スキル	Skill	Skill
-27	特化	Mastery	Mastery
-28	モジュール	Module	Module
-29	グループ	Group	Group
-30	ソートリセット	Sort Reset	Sort Reset
-31	目標一括入力	Target All Input	Target All Input
-32	フィルタ	Filter	Filter
-33	フィルタリセット	Filter Reset	Filter Reset
-34	表示：	Calc Group：	Calc Group：
-35	未所持オペレータを計算に含まない	Not include unpossessing operators in the calc.	Not include unpossessing operators in the calc.
-36	グローバル版未実装オペレータを計算に含まない	Not include the Global Server unimplemented operator in the calc.	Not include the Global Server unimplemented operator in the calc.
-37	素材名	Material Name	Material Name
-38	所持数	Have	Have
-39	加工割合	Proc. %	Proc. %
-40	必要数	Need	Need
-41	加工反映	Proc. Influ.	Proc. Influ.
-42	不足数	Lack	Lack
-43	余り	Remain	Remain
-44	加工生成物	Processing Product	Processing Product
-45	加工必要素材	Processing use material	Processing use material
-46	素材	Material	Material
-47	数	Cnt	Cnt
-48	対象レアリティ	Target Rarity	Target Rarity
-49	レアリティ	Rarity	Rarity
-50	クラス	Class	Class
-51	用途別クラス	Classes by Use	Classes by Use
-52	性別	Sex	Sex
-53	種族	Race	Race
-54	陣営	Faction	Faction
-55	出身地	Place of Birth	Place of Birth
-56	登録	Register	Register
-57	所持/未所持	Pos/Unpos	Pos/Unpos
-58	所持	Possession	Possession
-59	未所持	UnPossession	UnPossession
-60	実装/未実装	Imple/Unimple	Imple/Unimple
-61	実装	Implement	Implement
-62	未実装	UnImplement	UnImplement
-63	目標達成	Acomplish	Acomplish
-64	達成	Acomplished	Acomplished
-65	未達成	NotAcomplish	NotAcomplish
-66	メインフォームのオペレータ名をダブルクリックしてリストへ追加してください	Add to the list below by Double-Click the Operator Name from the list of operators in the Main Form	Add to the list below by Double-Click the Operator Name from the list of operators in the Main Form
-67	メインフォームの素材名をダブルクリックしてリストへ追加してください	Add to the list below by Double-Click the Material Name from the list of materials in the Main Form	Add to the list below by Double-Click the Material Name from the list of materials in the Main Form
-68	または、右のリストからステージを選択してAddボタンを押すと、そのステージでドロップする素材を下のリストへ追加できます	Or,when you select a stage from the drop-down list on the right, the materials to be dropped in that stage will be added to the list.	Or,when you select a stage from the drop-down list on the right, the materials to be dropped in that stage will be added to the list.
-69	今まで使った素材の数を覚えているか？	Do you remember how many materials you've used so far?	Do you remember how many materials you've used so far?
+13	信頼度共有（異格＆非異格）	Trust Sync(Alternater & not)	Trust Sync(Alternater & not)
+14	出力	Export	Export
+15	Penguin Statistics形式	Penguin Statistics Format	Penguin Statistics Format
+16	情報	Information	Information
+17	コード	Code	Code
+18	レア	Ra re	Ra re
+19	オペレータ名	Operator	Operator
+20	潜在	Pote ntial	Pote ntial
+21	信頼度	Trust	Trust
+22	逆理演算	Para dox	Para dox
+23	現在	Cur	Cur
+24	目標	Tgt	Tgt
+25	昇進	Elite	Elite
+26	レベル	Level	Level
+27	スキル	Skill	Skill
+28	特化	Mastery	Mastery
+29	モジュール	Module	Module
+30	グループ	Group	Group
+31	ソートリセット	Sort Reset	Sort Reset
+32	目標一括入力	Target All Input	Target All Input
+33	フィルタ	Filter	Filter
+34	フィルタリセット	Filter Reset	Filter Reset
+35	表示：	Calc Group：	Calc Group：
+36	未所持オペレータを計算に含まない	Not include unpossessing operators in the calc.	Not include unpossessing operators in the calc.
+37	グローバル版未実装オペレータを計算に含まない	Not include the Global Server unimplemented operator in the calc.	Not include the Global Server unimplemented operator in the calc.
+38	素材名	Material Name	Material Name
+39	所持数	Have	Have
+40	加工割合	Proc. %	Proc. %
+41	必要数	Need	Need
+42	加工反映	Proc. Influ.	Proc. Influ.
+43	不足数	Lack	Lack
+44	余り	Remain	Remain
+45	加工生成物	Processing Product	Processing Product
+46	加工必要素材	Processing use material	Processing use material
+47	素材	Material	Material
+48	数	Cnt	Cnt
+49	対象レアリティ	Target Rarity	Target Rarity
+50	レアリティ	Rarity	Rarity
+51	クラス	Class	Class
+52	職分	Classes by Use	Classes by Use
+53	性別	Sex	Sex
+54	種族	Race	Race
+55	陣営	Faction	Faction
+56	出身地	Place of Birth	Place of Birth
+57	登録	Register	Register
+58	所持/未所持	Pos/Unpos	Pos/Unpos
+59	所持	Possession	Possession
+60	未所持	UnPossession	UnPossession
+61	実装/未実装	Imple/Unimple	Imple/Unimple
+62	実装	Implement	Implement
+63	未実装	UnImplement	UnImplement
+64	目標達成	Acomplish	Acomplish
+65	達成	Acomplished	Acomplished
+66	未達成	NotAcomplish	NotAcomplish
+67	メインフォームのオペレータ名をダブルクリックしてリストへ追加してください	Add to the list below by Double-Click the Operator Name from the list of operators in the Main Form	Add to the list below by Double-Click the Operator Name from the list of operators in the Main Form
+68	メインフォームの素材名をダブルクリックしてリストへ追加してください	Add to the list below by Double-Click the Material Name from the list of materials in the Main Form	Add to the list below by Double-Click the Material Name from the list of materials in the Main Form
+69	または、右のリストからステージを選択してAddボタンを押すと、そのステージでドロップする素材を下のリストへ追加できます	Or,when you select a stage from the drop-down list on the right, the materials to be dropped in that stage will be added to the list.	Or,when you select a stage from the drop-down list on the right, the materials to be dropped in that stage will be added to the list.
+70	今まで使った素材の数を覚えているか？	Do you remember how many materials you've used so far?	Do you remember how many materials you've used so far?
 [Sex]			
 0	男	Male	Male
 1	女	Female	Female
 2	断罪	Conviction	Conviction
+3	不明	Unknown	Unknown
 [Class]			
 0	先鋒	Vanguard	Vanguard
 1	狙撃	Sniper	Sniper
@@ -88,7 +90,7 @@
 1	先駆兵	Pioneer	尖兵
 2	戦術家	Tactician	战术家
 3	旗手	Flagbearer	执旗手
-4	情報官	Intelligence	情报官
+4	偵察兵	Intelligence	情报官
 [Sniper]			
 0	速射手	Rapid Fire	速射手
 1	散弾射手	Spreadshooter	散射手
@@ -97,6 +99,7 @@
 4	榴弾射手	Splash	炮手
 5	投擲手	Bombardier	投掷手
 6	精密射手	Long Range	神射手
+7	狩人	Hunter	猎手
 [Medic]			
 0	医師	Physician	医师
 1	療養師	Ring Healer	疗养师
@@ -139,6 +142,7 @@
 3	召喚師	Summoner	召唤师
 4	吟遊者	Bard	吟游者
 5	工匠	Artificer	工匠
+6	巫者	shaman	巫役
 [Specialist]			
 0	執行者	Executor	处决者
 1	潜伏者	Stalker	伏击客
@@ -183,6 +187,8 @@
 31	ピロサ	Pillosa	Pillosa
 32	フィディア	Fidelity	Fidelity
 33	セラト	Cerrato	Cerrato
+34	アナサ	Anasa	Anasa
+35	エルフ	Elf	Elf
 99	不明/未公開	Unknown/Undisclosed	Unknown/Undisclosed
 [Faction]			
 0	ウルサス	Ursus	Ursus
@@ -225,6 +231,7 @@
 37	S.W.E.E.P.	S.W.E.E.P.	S.W.E.E.P.
 38	バベル	Babel	Babel
 39	レインボー小隊	Team Rainbow	Team Rainbow
+40	ダブリン	Dublinn	Dublinn
 [Place]			
 0	ウルサス	Ursus	Ursus
 1	龍門	Lungmen	Lungmen
@@ -309,12 +316,30 @@ VC16	ホルン	Horn	号角
 II07	アイリーニ	Irene	艾丽妮
 CR02	帰溟スペクター	Specter U.C.	归溟幽灵鲨
 II09	ルーメン	Lumen	流明
-LN05	エバンホルツ	Ebenholz	黑键
+LN05	エーベンホルツ	Ebenholz	黑键
 RL07	ドロシー	Dorothy	多萝西
 RF22	百錬ガヴィル	Gavial I.V.	百炼嘉维尔
-R145	パズィオンカ	Pozemka	鸿雪
+R145	パゼオンカ	Pozemka	鸿雪
 KZ08	ムリナール	Mlynar	玛恩纳
 VC17	ステインレス	Stainless	白铁
+PL07	血掟テキサス	Texas T.O.	缄默德克萨斯
+SR35	ペナンス	Penance	斥罪
+SR36	ヴィジェル	Vigil	伺夜
+DB02	焰影リード	Reed F.S.	焰影苇草
+NM04	チョンユエ	Chongyue	重岳
+LM21	リン	Lin	林
+YD20	チューバイ	Qiu Bai	仇白
+MH02	キリンRヤトウ	Yato K.R	麒麟R夜刀
+B215	イネス	Ines	伊内丝
+RL09	ミュルジス	Muelsyse	缪尔赛思
+CB88	ホルハイヤ	Ho’olheyak	霍尔海雅
+RL10	淬羽サイレンス	Silence T.P.	淬羽赫默
+LT40	聖約イグゼキュター	Executor E.F.	圣约送葬人
+SI07	ティフォン	Typhon	提丰
+LN10	純燼エイヤフィヤトラ	Eyjafjalla H.A.	纯烬艾雅法拉
+LM22	琳琅スワイヤー	Swire E.W.	琳琅诗怀雅
+BS30	洗火ジェシカ	Jessica T.L.	涤火杰西卡
+B216	ヘドリー	Hoederer	赫德雷
 RB01	サベージ	Savage	暴行
 PL02	テキサス	Texas	德克萨斯
 USS1	ズィマー	Zima	凛冬
@@ -408,7 +433,7 @@ KZ14	ワイルドメイン	Wild Mane	野鬃
 JC09	オーロラ	Aurora	极光
 JC00	イェラ	Kjera	耶拉
 VC07	シャレム	Shalem	暮落
-YD09	クシキロク	9Color Deer	九色鹿
+YD09	クシキロク	9-Colored Deer	九色鹿
 RB12	ブラックナイト	Blacknight	夜半
 RF02	寒芒クルース	Kroos K.G.	寒芒克洛丝
 R121	クエルクス	Quercus	夏栎
@@ -428,6 +453,27 @@ KZ10	プロヴァイゾ	Proviso	但书
 II10	ハイモア	Highmore	海沫
 R175	パプリカ	Paprika	明椒
 GG04	ダグザ	Dagda	达格达
+SR37	ルナカブ	Lunacub	子月
+SI03	カニパラート	Qanipalaat	雪绒
+DB03	ハーモニー	Harmonie	和弦
+VC21	パズル	Pazzle	谜图
+RB09	ファイヤーホイッスル	Firewhistle	火哨
+YD15	ジエユン	Jieyun	截云
+YD17	ウィンドチャイム	Wind Chimes	铎铃
+MH03	レウスSノイルホーン	Noir Corne R.S	火龙S黑角
+RB11	セメント	Cement	洋灰
+GG02	モーガン	Morgan	摩根
+CB22	メラナイト	Melanite	玫拉
+LT12	スプリア	Spuria	空构
+LT13	インサイダー	Insider	隐现
+SI02	サンタラ	Santalla	寒檀
+SI06	ヴァラルクヴィン	Valarqvin	凛视
+SS04	ポンシラス	Poncirus	青枳
+SS03	ブライオファイタ	Bryophyta	苍苔
+BS05	アーモンド	Almond	杏仁
+CB28	コールドショット	Coldshot	冰酿
+VC23	ヴェンデラ	Vendela	刺玫
+VC24	デルフィーヌ	Delphine	戴菲恩
 JC04	クーリエ	Courier	讯使
 SW02	スカベンジャー	Scavenger	清道夫
 R105	ヴィグナ	Vigna	红豆
@@ -480,6 +526,9 @@ CB03	プリン	Pudding	布丁
 R134	チェストナット	Chestnut	褐果
 R161	羅小黒	Luo Xiaiohei	罗小黑
 SG11	トター	Totter	铅踝
+CB18	クォーツ	Quartz	石英
+R171	ヒューマス	Humus	休谟斯
+VC25	ヴァーダント	Verdant	维荻
 PA11	フェン	Fang	芬
 BS04	バニラ	Vanilla	香草
 LT05	プリュム	Plume	翎羽
@@ -506,6 +555,9 @@ RCX2	Lancet-2	Lancet-2	Lancet-2
 RCX3	Castle-3	Castle-3	Castle-3
 RCX4	Thermal-EX	Thermal-EX	Thermal-EX
 KZ15	Justice Knight	Justice Knight	正义骑士号
+MH01	テラ大陸調査団	Terra Research Commission	泰拉大陆调查团
+U007	U-Official	U-Official	U-Official
+RCX5	Friston-3	Friston-3	Friston-3
 [Material]			
 1	上級作戦記録	Strategic B.R.	高级作战记录
 2	中級作戦記録	Tactical B.R.	中级作战记录
@@ -560,12 +612,16 @@ KZ15	Justice Knight	Justice Knight	正义骑士号
 31044	精錬溶剤	Refined Solvent	精炼溶剂
 31053	切削液	Comp. Cut. Fluid	化合切削剤
 31054	上級切削液	Cut. Stock Solution	切削原液
-30155	焼結核凝晶	(Sintered Nodule Condensation)	烧结核凝晶
-31063	転質塩	(Transmass Salt Pack)	转质盐组
-31064	上級転質塩	(Transmass Salt Lump)	转质盐聚块
+30155	焼結核凝晶	Nucleic Crystal Sinter	烧结核凝晶
+31063	転化塩	Trans. Salt	转质盐组
+31064	上級転化塩	Trans. Salt Agglomerate	转质盐聚块
+31073	褐素繊維	Brown pigment fiber	褐素纤维
+31074	硬化繊維ボード	Cured fiberboard	固化纤维板
+31083	環式炭化水素ポリマー	Cyclic hydrocarbon polymass	环烃聚质
+31084	環式炭化水素プリフォーム	Cyclic hydrocarbon preforms	环烃预制体
 3000	モジュールデータ	Module Data Block	模组数据块
-3001	データ補強棒	(Data Rein. Bar)	数据增补条
-3002	データ補強機	(Data Aug. Machine)	数据增补仪
+3001	データ補完マシン	Data Supple. Instrument	数据增补仪
+3002	データ補完チップ	Data Supple. Stick	数据增补条
 11	アーツ学1	Skill Summary 1	技巧概要·卷1
 12	アーツ学2	Skill Summary 2	技巧概要·卷2
 13	アーツ学3	Skill Summary 3	技巧概要·卷3
