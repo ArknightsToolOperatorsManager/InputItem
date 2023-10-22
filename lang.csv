@@ -77,11 +77,11 @@
 3	不明	Unknown	Unknown
 [Class]			
 0	先鋒	Vanguard	Vanguard
-1	狙撃	Sniper	Sniper
-2	医療	Medic	Medic
-3	術師	Caster	Caster
-4	前衛	Guard	Guard
-5	重装	Defender	Defender
+1	前衛	Guard	Guard
+2	重装	Defender	Defender
+3	狙撃	Sniper	Sniper
+4	術師	Caster	Caster
+5	医療	Medic	Medic
 6	補助	Supporter	Supporter
 7	特殊	Specialist	Specialist
 [ByUse]			
