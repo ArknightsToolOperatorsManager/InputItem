@@ -100,6 +100,7 @@
 5	投擲手	Bombardier	投掷手
 6	精密射手	Long Range	神射手
 7	狩人	Hunter	猎手
+8	回輪射手	Loop	回环射手
 [Medic]			
 0	医師	Physician	医师
 1	療養師	Ring Healer	疗养师
@@ -115,6 +116,7 @@
 4	爆撃術師	Blast	轰击术士
 5	操機術師	Drone	驭械术士
 6	連鎖術師	Chain	链术士
+7	本源術師	Principle	本源术师
 [Guard]			
 0	強襲者	Centurion	强攻手
 1	剣豪	Dual-Strike	剑豪
@@ -142,7 +144,7 @@
 3	召喚師	Summoner	召唤师
 4	吟遊者	Bard	吟游者
 5	工匠	Artificer	工匠
-6	巫者	shaman	巫役
+6	巫者	Shaman	巫役
 [Specialist]			
 0	執行者	Executor	处决者
 1	潜伏者	Stalker	伏击客
@@ -340,6 +342,9 @@ LN10	純燼エイヤフィヤトラ	Eyjafjalla H.A.	纯烬艾雅法拉
 LM22	琳琅スワイヤー	Swire E.W.	琳琅诗怀雅
 BS30	洗火ジェシカ	Jessica T.L.	涤火杰西卡
 B216	ヘドリー	Hoederer	赫德雷
+LT22	ヴィルトゥオーサ	Virtuosa	塑心
+LN11	ヴィヴィアナ	Viviana	薇薇安娜
+LN07	レッシング	Lessing	止颂
 RB01	サベージ	Savage	暴行
 PL02	テキサス	Texas	德克萨斯
 USS1	ズィマー	Zima	凛冬
@@ -473,7 +478,9 @@ SS03	ブライオファイタ	Bryophyta	苍苔
 BS05	アーモンド	Almond	杏仁
 CB28	コールドショット	Coldshot	冰酿
 VC23	ヴェンデラ	Vendela	刺玫
-VC24	デルフィーヌ	Delphine	戴菲恩
+VC24	デルフィーン	Delphine	戴菲恩
+LN21	ディアマンテ	Diamante	折光
+LN13	ベースライン	Bassline	深律
 JC04	クーリエ	Courier	讯使
 SW02	スカベンジャー	Scavenger	清道夫
 R105	ヴィグナ	Vigna	红豆
@@ -529,6 +536,7 @@ SG11	トター	Totter	铅踝
 CB18	クォーツ	Quartz	石英
 R171	ヒューマス	Humus	休谟斯
 VC25	ヴァーダント	Verdant	维荻
+BV32	ケイパー	Caper	跃跃
 PA11	フェン	Fang	芬
 BS04	バニラ	Vanilla	香草
 LT05	プリュム	Plume	翎羽
