@@ -144,7 +144,7 @@
 3	召喚師	Summoner	召唤师
 4	吟遊者	Bard	吟游者
 5	工匠	Artificer	工匠
-6	巫者	Shaman	巫役
+6	祭儀師	Ritualist	巫役
 [Specialist]			
 0	執行者	Executor	处决者
 1	潜伏者	Stalker	伏击客
@@ -349,6 +349,7 @@ JC07	デーゲンブレヒャー	Degenbrecher	锏
 RB15	レイ	Ray	莱伊
 NM05	シュウ	Shu	黍
 YD06	ズオ・ラウ	Zuo Le	左乐
+RS05	Ela	Ela	艾拉
 RB01	サベージ	Savage	暴行
 PL02	テキサス	Texas	德克萨斯
 USS1	ズィマー	Zima	凛冬
@@ -476,7 +477,7 @@ CB22	メラナイト	Melanite	玫拉
 LT12	スプリア	Spuria	空构
 LT13	インサイダー	Insider	隐现
 SI02	サンタラ	Santalla	寒檀
-SI06	ヴァラルクヴィン	Valarqvin	凛视
+SI06	ヴァラルクビン	Valarqvin	凛视
 SS04	ポンシラス	Poncirus	青枳
 SS03	ブライオファイタ	Bryophyta	苍苔
 BS05	アーモンド	Almond	杏仁
@@ -491,6 +492,9 @@ RB14	ウォーミー	Warmy	温米
 YD13	ワンチン	Wanqing	万顷
 YD14	シャオマン	Grainbuds	小满
 SG12	ケストレル	Kestrel	红隼
+RS06	Doc	Doc	医生
+RS07	Iana	Iana	双月
+RS08	Fuze	Fuze	导火索
 JC04	クーリエ	Courier	讯使
 SW02	スカベンジャー	Scavenger	清道夫
 R105	ヴィグナ	Vigna	红豆
