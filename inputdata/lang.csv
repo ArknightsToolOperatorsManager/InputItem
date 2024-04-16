@@ -129,6 +129,7 @@
 8	領主	Lord	领主
 9	解放者	Liberator	解放者
 10	重剣手	Crusher	重剑手
+11	撼地者	Earthshaker	撼地者
 [Defender]			
 0	重盾衛士	Protector	铁卫
 1	術技衛士	Arts Ironguard	驭法铁卫
@@ -340,7 +341,7 @@ LT40	聖約イグゼキュター	Executor E.F.	圣约送葬人
 SI07	ティフォン	Typhon	提丰
 LN10	純燼エイヤフィヤトラ	Eyjafjalla H.A.	纯烬艾雅法拉
 LM22	琳琅スワイヤー	Swire E.W.	琳琅诗怀雅
-BS30	洗火ジェシカ	Jessica T.L.	涤火杰西卡
+BS30	滌火ジェシカ	Jessica T.L.	涤火杰西卡
 B216	ヘドリー	Hoederer	赫德雷
 LT22	ヴィルトゥオーサ	Virtuosa	塑心
 LN11	ヴィヴィアナ	Viviana	薇薇安娜
@@ -350,6 +351,7 @@ RB15	レイ	Ray	莱伊
 NM05	シュウ	Shu	黍
 YD06	ズオ・ラウ	Zuo Le	左乐
 RS05	Ela	Ela	艾拉
+SW00	アスカロン	Ascalon	阿斯卡纶
 RB01	サベージ	Savage	暴行
 PL02	テキサス	Texas	德克萨斯
 USS1	ズィマー	Zima	凛冬
@@ -482,7 +484,7 @@ SS04	ポンシラス	Poncirus	青枳
 SS03	ブライオファイタ	Bryophyta	苍苔
 BS05	アーモンド	Almond	杏仁
 CB28	コールドショット	Coldshot	冰酿
-VC23	ヴェンデラ	Vendela	刺玫
+VC23	ヴァンデラ	Vendela	刺玫
 VC24	デルフィーン	Delphine	戴菲恩
 LN21	ディアマンテ	Diamante	折光
 LN13	ベースライン	Bassline	深律
@@ -495,6 +497,8 @@ SG12	ケストレル	Kestrel	红隼
 RS06	Doc	Doc	医生
 RS07	Iana	Iana	双月
 RS08	Fuze	Fuze	导火索
+SR39	アロマ	Aroma	阿罗玛
+R167	オッダ	Odda	奥达
 JC04	クーリエ	Courier	讯使
 SW02	スカベンジャー	Scavenger	清道夫
 R105	ヴィグナ	Vigna	红豆
@@ -551,6 +555,7 @@ CB18	クォーツ	Quartz	石英
 R171	ヒューマス	Humus	休谟斯
 VC25	ヴァーダント	Verdant	维荻
 BV32	ケイパー	Caper	跃跃
+BV33	ルトナダ	Lutonada	露托
 PA11	フェン	Fang	芬
 BS04	バニラ	Vanilla	香草
 LT05	プリュム	Plume	翎羽
