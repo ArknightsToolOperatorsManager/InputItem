@@ -643,9 +643,9 @@ RCX5	Friston-3	Friston-3	Friston-3
 31063	転化塩	Trans. Salt	转质盐组
 31064	上級転化塩	Trans. Salt Agglomerate	转质盐聚块
 31073	褐素繊維	Brown pigment fiber	褐素纤维
-31074	硬化繊維ボード	Cured fiberboard	固化纤维板
-31083	環式炭化水素ポリマー	Cyclic hydrocarbon polymass	环烃聚质
-31084	環式炭化水素プリフォーム	Cyclic hydrocarbon preforms	环烃预制体
+31074	硬化ファイバー基板	Cured fiberboard	固化纤维板
+31083	炭化水素ポリマー	Cyclic hydrocarbon polymass	环烃聚质
+31084	プレハブ式炭化水素	Cyclic hydrocarbon preforms	环烃预制体
 3000	モジュールデータ	Module Data Block	模组数据块
 3001	データ補完マシン	Data Supple. Instrument	数据增补仪
 3002	データ補完チップ	Data Supple. Stick	数据增补条
