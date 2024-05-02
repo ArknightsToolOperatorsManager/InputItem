@@ -116,7 +116,7 @@
 4	爆撃術師	Blast	轰击术士
 5	操機術師	Drone	驭械术士
 6	連鎖術師	Chain	链术士
-7	本源術師	Principle	本源术师
+7	本源術師	Primal Caster	本源术师
 [Guard]			
 0	強襲者	Centurion	强攻手
 1	剣豪	Dual-Strike	剑豪
@@ -352,6 +352,9 @@ NM05	シュウ	Shu	黍
 YD06	ズオ・ラウ	Zuo Le	左乐
 RS05	Ela	Ela	艾拉
 SW00	アスカロン	Ascalon	阿斯卡纶
+B00W	ウィシャデル	Wiš’adel	维什戴尔
+RE03	ロゴス	Logos	逻各斯
+DWDB	魔王	Civilight Eterna	魔王
 RB01	サベージ	Savage	暴行
 PL02	テキサス	Texas	德克萨斯
 USS1	ズィマー	Zima	凛冬
@@ -359,7 +362,8 @@ RL04	フィリオプシス	Ptilopsis	白面鸮
 RL01	サイレンス	Silence	赫默
 R106	ワルファリン	Warfarin	华法琳
 R001	アーミヤ	Amiya	阿米娅
-R001_2	昇格アーミヤ	Amiya Alter	阿米娅(近卫)
+R001_2	昇格アーミヤ(前衛)	Amiya Alter	阿米娅(近卫)
+R001_3	昇格アーミヤ(医療)	Amiya Alter	阿米娅(医疗)
 VC03	ナイトメア	Nightmare	夜魔
 SK01	スカイフレア	Skyfire	天火
 SW01	レッド	Projekt Red	红
@@ -499,6 +503,7 @@ RS07	Iana	Iana	双月
 RS08	Fuze	Fuze	导火索
 SR39	アロマ	Aroma	阿罗玛
 R167	オッダ	Odda	奥达
+RF04	歴陣鋭フェン	Fang F.S.	历阵锐枪芬
 JC04	クーリエ	Courier	讯使
 SW02	スカベンジャー	Scavenger	清道夫
 R105	ヴィグナ	Vigna	红豆
@@ -585,6 +590,7 @@ KZ15	Justice Knight	Justice Knight	正义骑士号
 MH01	テラ大陸調査団	Terra Research Commission	泰拉大陆调查团
 U007	U-Official	U-Official	U-Official
 RCX5	Friston-3	Friston-3	Friston-3
+RCX6	PhonoR-0	PhonoR-0	PhonoR-0
 [Material]			
 1	上級作戦記録	Strategic B.R.	高级作战记录
 2	中級作戦記録	Tactical B.R.	中级作战记录
