@@ -155,6 +155,7 @@
 5	傀儡師	Puppeteer	傀儡师
 6	推撃手	Pusher	推击手
 7	鬼才	Geek	怪杰
+8	錬金術師	Alchemist	炼金师
 [Race]			
 0	アスラン	Aslan	Aslan
 1	アダクリス	Archosauria	Archosauria
@@ -357,6 +358,8 @@ RE03	ロゴス	Logos	逻各斯
 DWDB	魔王	Civilight Eterna	魔王
 AA00	ウルピアヌス	Ulpianus	乌尔比安
 R182	ニンフ	Nymph	妮芙
+SG14	ペペ	Pepe	佩佩
+SG17	ナラントゥヤ	Narantuya	娜仁图亚
 RB01	サベージ	Savage	暴行
 PL02	テキサス	Texas	德克萨斯
 USS1	ズィマー	Zima	凛冬
@@ -497,8 +500,8 @@ LN13	ベースライン	Bassline	深律
 USS5	リェータ	Лето	烈夏
 VC27	ハロルド	Harold	哈洛德
 RB14	ウォーミー	Warmy	温米
-YD13	ワンチン	Wanqing	万顷
-YD14	シャオマン	Grainbuds	小满
+YD13	ワンチィン	Wanqing	万顷
+YD14	グレインバッズ	Grainbuds	小满
 SG12	ケストレル	Kestrel	红隼
 RS06	Doc	Doc	医生
 RS07	Iana	Iana	双月
@@ -509,6 +512,9 @@ RF04	歴陣鋭フェン	Fang F.S.	历阵锐枪芬
 AE03	アンダーフロー	Underflow	深巡
 AE05	ルシーラ	Lucilla	海霓
 R184	ミットム	Mitm	渡桥
+CB30	ブリキ	Tin Man	锡人
+SG23	サンドレコナー	Sandreckoner	衡沙
+SG19	パピルス	Papyrus	莎草
 JC04	クーリエ	Courier	讯使
 SW02	スカベンジャー	Scavenger	清道夫
 R105	ヴィグナ	Vigna	红豆
