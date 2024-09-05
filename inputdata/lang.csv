@@ -194,6 +194,11 @@
 34	アナサ	Anasa	Anasa
 35	エルフ	Elf	Elf
 99	不明/未公開	Unknown/Undisclosed	Unknown/Undisclosed
+100	Rainbow Six Siege	Rainbow Six Siege	彩虹六号
+101	九色鹿	Nine-Colored Deer	九色鹿
+102	羅小黒戦記	The Legend of Hei	罗小黑战记
+103	モンスターハンター	Monster Hunter	怪物猎人
+104	ダンジョン飯	Delicious in Dungeon	迷宫饭
 [Faction]			
 0	ウルサス	Ursus	Ursus
 1	ウルサス学生自治団	Ursus Student Self-Gover. Gr.	Ursus Student Self-Gover. Gr.
@@ -261,6 +266,11 @@
 21	ロドス・アイランド	Rhodes Island	Rhodes Island
 22	ドゥリン	Durin	Durin
 99	不明/未公開	Unknown/Undisclosed	Unknown/Undisclosed
+100	Rainbow Six Siege	Rainbow Six Siege	彩虹六号
+101	九色鹿	Nine-Colored Deer	九色鹿
+102	羅小黒戦記	The Legend of Hei	罗小黑战记
+103	モンスターハンター	Monster Hunter	怪物猎人
+104	ダンジョン飯	Delicious in Dungeon	迷宫饭
 [Operator]			
 LM04	チェン	Ch'en	陈
 GG01	シージ	Siege	推进之王
@@ -360,6 +370,7 @@ AA00	ウルピアヌス	Ulpianus	乌尔比安
 R182	ニンフ	Nymph	妮芙
 SG14	ペペ	Pepe	佩佩
 SG17	ナラントゥヤ	Narantuya	娜仁图亚
+DD02	マルシル	Marcile	玛露西尔
 RB01	サベージ	Savage	暴行
 PL02	テキサス	Texas	德克萨斯
 USS1	ズィマー	Zima	凛冬
@@ -515,6 +526,9 @@ R184	ミットム	Mitm	渡桥
 CB30	ブリキ	Tin Man	锡人
 SG23	サンドレコナー	Sandreckoner	衡沙
 SG19	パピルス	Papyrus	莎草
+DD01	ライオス	Laios	莱欧斯
+DD03	チルチャック	Chilchuck	齐尔查克
+DD04	センシ	Senshi	森西
 JC04	クーリエ	Courier	讯使
 SW02	スカベンジャー	Scavenger	清道夫
 R105	ヴィグナ	Vigna	红豆
