@@ -129,7 +129,7 @@
 8	領主	Lord	领主
 9	解放者	Liberator	解放者
 10	重剣手	Crusher	重剑手
-11	撼地者	Earthshaker	撼地者
+11	槌撃士	Earthshaker	撼地者
 [Defender]			
 0	重盾衛士	Protector	铁卫
 1	術技衛士	Arts Ironguard	驭法铁卫
@@ -371,6 +371,7 @@ R182	ニンフ	Nymph	妮芙
 SG14	ペペ	Pepe	佩佩
 SG17	ナラントゥヤ	Narantuya	娜仁图亚
 DD02	マルシル	Marcile	玛露西尔
+VC00	ヴィーナ・ヴィクトリア	Vina Victoria	维娜・维多利亚
 RB01	サベージ	Savage	暴行
 PL02	テキサス	Texas	德克萨斯
 USS1	ズィマー	Zima	凛冬
@@ -529,6 +530,8 @@ SG19	パピルス	Papyrus	莎草
 DD01	ライオス	Laios	莱欧斯
 DD03	チルチャック	Chilchuck	齐尔查克
 DD04	センシ	Senshi	森西
+VC20	キャサリン	Catherine	凯瑟琳
+CB32	ボビン	Bobbing	波卜
 JC04	クーリエ	Courier	讯使
 SW02	スカベンジャー	Scavenger	清道夫
 R105	ヴィグナ	Vigna	红豆
