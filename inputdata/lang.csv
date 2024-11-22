@@ -138,6 +138,7 @@
 4	破壊者	Unyielding	不屈者
 5	堅城砲士	Fortress	要塞
 6	哨戒衛士	Patrol	哨戒铁卫
+7	本源鉄衛	Primal Protector	本源铁卫
 [Supporter]			
 0	緩速師	Slower	凝滞师
 1	祈祷師	Blessing	护佑者
@@ -156,6 +157,7 @@
 6	推撃手	Pusher	推击手
 7	鬼才	Geek	怪杰
 8	錬金術師	Alchemist	炼金师
+9	巡空者	Pilot	巡空者
 [Race]			
 0	アスラン	Aslan	Aslan
 1	アダクリス	Archosauria	Archosauria
@@ -365,13 +367,16 @@ RS05	Ela	Ela	艾拉
 SW00	アスカロン	Ascalon	阿斯卡纶
 B00W	ウィシャデル	Wiš’adel	维什戴尔
 RE03	ロゴス	Logos	逻各斯
-DWDB	魔王	Civilight Eterna	魔王
+DWDB	シヴィライト・エテルナ	Civilight Eterna	魔王
 AA00	ウルピアヌス	Ulpianus	乌尔比安
 R182	ニンフ	Nymph	妮芙
 SG14	ペペ	Pepe	佩佩
 SG17	ナラントゥヤ	Narantuya	娜仁图亚
 DD02	マルシル	Marcile	玛露西尔
 VC00	ヴィーナ・ヴィクトリア	Vina Victoria	维娜・维多利亚
+SR04	荒廃ラップランド	Lappland T.D.	荒芜拉普兰德
+SR40	ヴァルピスフォーリア	Vulpisfoglia	忍冬
+R315	クラウンスレイヤー	CrownSlayer	弑君者
 RB01	サベージ	Savage	暴行
 PL02	テキサス	Texas	德克萨斯
 USS1	ズィマー	Zima	凛冬
@@ -520,7 +525,7 @@ RS07	Iana	Iana	双月
 RS08	Fuze	Fuze	导火索
 SR39	アロマ	Aroma	阿罗玛
 R167	オッダ	Odda	奥达
-RF04	歴陣鋭フェン	Fang F.S.	历阵锐枪芬
+RF04	歴陣鋭槍フェン	Fang F.S.	历阵锐枪芬
 AE03	アンダーフロー	Underflow	深巡
 AE05	ルシーラ	Lucilla	海霓
 R184	ミットム	Mitm	渡桥
@@ -532,6 +537,8 @@ DD03	チルチャック	Chilchuck	齐尔查克
 DD04	センシ	Senshi	森西
 VC20	キャサリン	Catherine	凯瑟琳
 CB32	ボビン	Bobbing	波卜
+SR41	フィグリーノ	Figurino	裁度
+SG10	フィラエ	Philae	菲莱
 JC04	クーリエ	Courier	讯使
 SW02	スカベンジャー	Scavenger	清道夫
 R105	ヴィグナ	Vigna	红豆
@@ -589,6 +596,7 @@ R171	ヒューマス	Humus	休谟斯
 VC25	ヴァーダント	Verdant	维荻
 BV32	ケイパー	Caper	跃跃
 BV33	ルトナダ	Lutonada	露托
+CB33	コントレイル	Contrail	云迹
 PA11	フェン	Fang	芬
 BS04	バニラ	Vanilla	香草
 LT05	プリュム	Plume	翎羽
