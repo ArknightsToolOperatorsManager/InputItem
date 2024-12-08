@@ -116,7 +116,8 @@
 4	爆撃術師	Blast	轰击术士
 5	操機術師	Drone	驭械术士
 6	連鎖術師	Chain	链术士
-7	本源術師	Primal Caster	本源术师
+7	本源術師	Primal	本源术师
+8	塑霊術師	Shaper	塑灵术师
 [Guard]			
 0	強襲者	Centurion	强攻手
 1	剣豪	Dual-Strike	剑豪
@@ -377,6 +378,7 @@ VC00	ヴィーナ・ヴィクトリア	Vina Victoria	维娜・维多利亚
 SR04	荒廃ラップランド	Lappland T.D.	荒芜拉普兰德
 SR40	ヴァルピスフォーリア	Vulpisfoglia	忍冬
 R315	クラウンスレイヤー	CrownSlayer	弑君者
+II02	引星ソーンズ	Thorns T.L.	引星棘刺
 RB01	サベージ	Savage	暴行
 PL02	テキサス	Texas	德克萨斯
 USS1	ズィマー	Zima	凛冬
@@ -539,6 +541,8 @@ VC20	キャサリン	Catherine	凯瑟琳
 CB32	ボビン	Bobbing	波卜
 SR41	フィグリーノ	Figurino	裁度
 SG10	フィラエ	Philae	菲莱
+BV23	テクノ	Tecno	特克诺
+II11	ローズソルト	Rose Salt	瑰盐
 JC04	クーリエ	Courier	讯使
 SW02	スカベンジャー	Scavenger	清道夫
 R105	ヴィグナ	Vigna	红豆
