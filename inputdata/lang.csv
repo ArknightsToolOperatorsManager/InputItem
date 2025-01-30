@@ -106,7 +106,7 @@
 1	療養師	Ring Healer	疗养师
 2	群癒師	Mender	群愈师
 3	放浪医	Wandering Medic	行医
-4	呪癒師	Incantationmedic	咒愈师
+4	呪癒師	Incantation Medic	咒愈师
 5	連鎖癒師	Chain Medic	链愈师
 [Caster]			
 0	中堅術師	Core	中坚术士
@@ -379,6 +379,8 @@ SR04	荒廃ラップランド	Lappland T.D.	荒芜拉普兰德
 SR40	ヴァルピスフォーリア	Vulpisfoglia	忍冬
 R315	クラウンスレイヤー	CrownSlayer	弑君者
 II02	引星ソーンズ	Thorns T.L.	引星棘刺
+NM06	ユウ	Yu	余
+REX1	ジュウホァン	Blaze I.S.	烛煌
 RB01	サベージ	Savage	暴行
 PL02	テキサス	Texas	德克萨斯
 USS1	ズィマー	Zima	凛冬
@@ -543,6 +545,8 @@ SR41	フィグリーノ	Figurino	裁度
 SG10	フィラエ	Philae	菲莱
 BV23	テクノ	Tecno	特克诺
 II11	ローズソルト	Rose Salt	瑰盐
+YD18	シンジュウ	Xingzhu	行箸
+BS07	サーファー	Surfer	寻澜
 JC04	クーリエ	Courier	讯使
 SW02	スカベンジャー	Scavenger	清道夫
 R105	ヴィグナ	Vigna	红豆
