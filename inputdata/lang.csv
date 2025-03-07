@@ -197,11 +197,11 @@
 34	アナサ	Anasa	Anasa
 35	エルフ	Elf	Elf
 99	不明/未公開	Unknown/Undisclosed	Unknown/Undisclosed
-100	Rainbow Six Siege	Rainbow Six Siege	彩虹六号
-101	九色鹿	Nine-Colored Deer	九色鹿
-102	羅小黒戦記	The Legend of Hei	罗小黑战记
-103	モンスターハンター	Monster Hunter	怪物猎人
-104	ダンジョン飯	Delicious in Dungeon	迷宫饭
+100	Rainbow Six Siege	Rainbow Six Siege	Rainbow Six Siege
+101	九色鹿	Nine-Colored Deer	Nine-Colored Deer
+102	羅小黒戦記	The Legend of Hei	The Legend of Hei
+103	モンスターハンター	Monster Hunter	Monster Hunter
+104	ダンジョン飯	Delicious in Dungeon	Delicious in Dungeon
 [Faction]			
 0	ウルサス	Ursus	Ursus
 1	ウルサス学生自治団	Ursus Student Self-Gover. Gr.	Ursus Student Self-Gover. Gr.
@@ -243,7 +243,7 @@
 37	S.W.E.E.P.	S.W.E.E.P.	S.W.E.E.P.
 38	バベル	Babel	Babel
 39	レインボー小隊	Team Rainbow	Team Rainbow
-40	ダブリン	Dublinn	Dublinn
+40	ダブリン	Dublinn	Tara
 [Place]			
 0	ウルサス	Ursus	Ursus
 1	龍門	Lungmen	Lungmen
@@ -269,11 +269,11 @@
 21	ロドス・アイランド	Rhodes Island	Rhodes Island
 22	ドゥリン	Durin	Durin
 99	不明/未公開	Unknown/Undisclosed	Unknown/Undisclosed
-100	Rainbow Six Siege	Rainbow Six Siege	彩虹六号
-101	九色鹿	Nine-Colored Deer	九色鹿
-102	羅小黒戦記	The Legend of Hei	罗小黑战记
-103	モンスターハンター	Monster Hunter	怪物猎人
-104	ダンジョン飯	Delicious in Dungeon	迷宫饭
+100	Rainbow Six Siege	Rainbow Six Siege	Rainbow Six Siege
+101	九色鹿	Nine-Colored Deer	Nine-Colored Deer
+102	羅小黒戦記	The Legend of Hei	The Legend of Hei
+103	モンスターハンター	Monster Hunter	Monster Hunter
+104	ダンジョン飯	Delicious in Dungeon	Delicious in Dungeon
 [Operator]			
 LM04	チェン	Ch'en	陈
 GG01	シージ	Siege	推进之王
@@ -382,6 +382,7 @@ II02	引星ソーンズ	Thorns T.L.	引星棘刺
 NM06	ユウ	Yu	余
 REX1	ジュウホァン	Blaze I.S.	烛煌
 R169	エンテレケイア	Entelechia	隐德来希
+DB01	ネクラス	Necrass	死芒
 RB01	サベージ	Savage	暴行
 PL02	テキサス	Texas	德克萨斯
 USS1	ズィマー	Zima	凛冬
@@ -549,6 +550,8 @@ II11	ローズソルト	Rose Salt	瑰盐
 YD18	シンジュウ	Xingzhu	行箸
 BS07	サーファー	Surfer	寻澜
 VC29	ノウエル	Nowell	诺威尔
+SG27	ウルフェナイト	Wulfenite	钼铅
+DB04	ブリギッド	Brigid	水灯心
 JC04	クーリエ	Courier	讯使
 SW02	スカベンジャー	Scavenger	清道夫
 R105	ヴィグナ	Vigna	红豆
