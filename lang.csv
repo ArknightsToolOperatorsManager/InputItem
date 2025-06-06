@@ -17,7 +17,7 @@
 15	Penguin Statistics形式	Penguin Statistics Format	Penguin Statistics Format
 16	情報	Information	Information
 17	コード	Code	Code
-18	レア	Ra re	Ra re
+18	レア	Rare	Rare
 19	オペレータ名	Operator	Operator
 20	潜在	Pote ntial	Pote ntial
 21	信頼度	Trust	Trust
@@ -131,6 +131,7 @@
 9	解放者	Liberator	解放者
 10	重剣手	Crusher	重剑手
 11	槌撃士	Earthshaker	撼地者
+12	本源前衛	Primal Guard	本源近卫
 [Defender]			
 0	重盾衛士	Protector	铁卫
 1	術技衛士	Arts Ironguard	驭法铁卫
@@ -139,7 +140,7 @@
 4	破壊者	Unyielding	不屈者
 5	堅城砲士	Fortress	要塞
 6	哨戒衛士	Patrol	哨戒铁卫
-7	本源鉄衛	Primal Protector	本源铁卫
+7	本源衛士	Primal Protector	本源铁卫
 [Supporter]			
 0	緩速師	Slower	凝滞师
 1	祈祷師	Blessing	护佑者
@@ -158,7 +159,7 @@
 6	推撃手	Pusher	推击手
 7	鬼才	Geek	怪杰
 8	錬金術師	Alchemist	炼金师
-9	巡空者	Pilot	巡空者
+9	巡空者	Sky Ranger	巡空者
 [Race]			
 0	アスラン	Aslan	Aslan
 1	アダクリス	Archosauria	Archosauria
@@ -375,14 +376,19 @@ SG14	ペペ	Pepe	佩佩
 SG17	ナラントゥヤ	Narantuya	娜仁图亚
 DD02	マルシル	Marcile	玛露西尔
 VC00	ヴィーナ・ヴィクトリア	Vina Victoria	维娜・维多利亚
-SR04	荒廃ラップランド	Lappland T.D.	荒芜拉普兰德
-SR40	ヴァルピスフォーリア	Vulpisfoglia	忍冬
+SR04	荒蕪ラップランド	Lappland T.D.	荒芜拉普兰德
+SR40	ウルピスフォリア	Vulpisfoglia	忍冬
 R315	クラウンスレイヤー	CrownSlayer	弑君者
 II02	引星ソーンズ	Thorns T.L.	引星棘刺
 NM06	ユウ	Yu	余
 REX1	ジュウホァン	Blaze I.S.	烛煌
 R169	エンテレケイア	Entelechia	隐德来希
 DB01	ネクラス	Necrass	死芒
+R003	Mon3tr	Mon3tr	Mon3tr
+PL08	新約エクシア	Exusiai N.C.	新约能天使
+LT17	レミュアン	Lemuen	蕾缪安
+LT32	サンクタミキサー	Sankta Miksaparato	信仰搅拌机
+CT01	トラゴディア	Tragodia	酒神
 RB01	サベージ	Savage	暴行
 PL02	テキサス	Texas	德克萨斯
 USS1	ズィマー	Zima	凛冬
@@ -542,7 +548,7 @@ DD01	ライオス	Laios	莱欧斯
 DD03	チルチャック	Chilchuck	齐尔查克
 DD04	センシ	Senshi	森西
 VC20	キャサリン	Catherine	凯瑟琳
-CB32	ボビン	Bobbing	波卜
+CB32	ボビング	Bobbing	波卜
 SR41	フィグリーノ	Figurino	裁度
 SG10	フィラエ	Philae	菲莱
 BV23	テクノ	Tecno	特克诺
@@ -552,6 +558,10 @@ BS07	サーファー	Surfer	寻澜
 VC29	ノウエル	Nowell	诺威尔
 SG27	ウルフェナイト	Wulfenite	钼铅
 DB04	ブリギッド	Brigid	水灯心
+RB17	アランナ	Alanna	阿兰娜
+BV27	グレースベアラー	Gracebearer	聆音
+MEOW	ミス・クリスティーン	Miss.Christine	Miss.Christine
+CB25	ティッピー	Tippi	蒂比
 JC04	クーリエ	Courier	讯使
 SW02	スカベンジャー	Scavenger	清道夫
 R105	ヴィグナ	Vigna	红豆
@@ -610,6 +620,7 @@ VC25	ヴァーダント	Verdant	维荻
 BV32	ケイパー	Caper	跃跃
 BV33	ルトナダ	Lutonada	露托
 CB33	コントレイル	Contrail	云迹
+YD22	ウィンドスクート	Windscoot	骋风
 PA11	フェン	Fang	芬
 BS04	バニラ	Vanilla	香草
 LT05	プリュム	Plume	翎羽
@@ -640,6 +651,7 @@ MH01	テラ大陸調査団	Terra Research Commission	泰拉大陆调查团
 U007	U-Official	U-Official	U-Official
 RCX5	Friston-3	Friston-3	Friston-3
 RCX6	PhonoR-0	PhonoR-0	PhonoR-0
+LT47	CONFESS-47	CONFESS-47	CONFESS-47
 [Material]			
 1	上級作戦記録	Strategic B.R.	高级作战记录
 2	中級作戦記録	Tactical B.R.	中级作战记录
@@ -701,6 +713,9 @@ RCX6	PhonoR-0	PhonoR-0	PhonoR-0
 31074	硬化ファイバー基板	Cured fiberboard	固化纤维板
 31083	炭化水素ポリマー	Cyclic hydrocarbon polymass	环烃聚质
 31084	プレハブ式炭化水素	Cyclic hydrocarbon preforms	环烃预制体
+31093	类凝结核	类凝结核	类凝结核
+31094	手性屈光体	手性屈光体	手性屈光体
+30165	重相位对映体	重相位对映体	重相位对映体
 3000	モジュールデータ	Module Data Block	模组数据块
 3001	データ補完マシン	Data Supple. Instrument	数据增补仪
 3002	データ補完チップ	Data Supple. Stick	数据增补条
