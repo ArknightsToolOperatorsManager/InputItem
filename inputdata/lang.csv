@@ -84,7 +84,7 @@
 5	医療	Medic	Medic
 6	補助	Supporter	Supporter
 7	特殊	Specialist	Specialist
-[ByUse]			
+[SubClass]			
 [Vanguard]			
 0	突撃兵	Assault	冲锋手
 1	先駆兵	Pioneer	尖兵
@@ -380,8 +380,8 @@ SR04	荒蕪ラップランド	Lappland T.D.	荒芜拉普兰德
 SR40	ウルピスフォリア	Vulpisfoglia	忍冬
 R315	クラウンスレイヤー	CrownSlayer	弑君者
 II02	引星ソーンズ	Thorns T.L.	引星棘刺
-NM06	ユウ	Yu	余
-REX1	ジュウホァン	Blaze I.S.	烛煌
+NM06	ユー	Yu	余
+REX1	熾炎ブレイズ	Blaze I.S.	烛煌
 R169	エンテレケイア	Entelechia	隐德来希
 DB01	ネクラス	Necrass	死芒
 R003	Mon3tr	Mon3tr	Mon3tr
@@ -389,6 +389,7 @@ PL08	新約エクシア	Exusiai N.C.	新约能天使
 LT17	レミュアン	Lemuen	蕾缪安
 LT32	サンクタミキサー	Sankta Miksaparato	信仰搅拌机
 CT01	トラゴディア	Tragodia	酒神
+YD25	司霆レイズ	Leizi T.T.	司霆惊蛰
 RB01	サベージ	Savage	暴行
 PL02	テキサス	Texas	德克萨斯
 USS1	ズィマー	Zima	凛冬
@@ -462,7 +463,7 @@ R163	ウィスパーレイン	Whisperain	絮雨
 CB06	カフカ	Kafka	卡夫卡
 CB08	ロビン	Robin	罗宾
 VC12	アイリス	Iris	爱丽丝
-SG08	トゥイェ	Tuye	图耶
+SG08	トゥイエ	Tuye	图耶
 RF01	炎獄ラヴァ	Purgatory	炎狱炎熔
 YD11	ウユウ	Mr.Nothing	乌有
 RS03	Frost	Frost	霜华
@@ -553,7 +554,7 @@ SR41	フィグリーノ	Figurino	裁度
 SG10	フィラエ	Philae	菲莱
 BV23	テクノ	Tecno	特克诺
 II11	ローズソルト	Rose Salt	瑰盐
-YD18	シンジュウ	Xingzhu	行箸
+YD18	シィンズゥ	Xingzhu	行箸
 BS07	サーファー	Surfer	寻澜
 VC29	ノウエル	Nowell	诺威尔
 SG27	ウルフェナイト	Wulfenite	钼铅
@@ -562,6 +563,7 @@ RB17	アランナ	Alanna	阿兰娜
 BV27	グレースベアラー	Gracebearer	聆音
 MEOW	ミス・クリスティーン	Miss.Christine	Miss.Christine
 CB25	ティッピー	Tippi	蒂比
+YD26	レコードキーパー	Record Keeper	录武官
 JC04	クーリエ	Courier	讯使
 SW02	スカベンジャー	Scavenger	清道夫
 R105	ヴィグナ	Vigna	红豆
