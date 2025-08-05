@@ -91,6 +91,7 @@
 2	戦術家	Tactician	战术家
 3	旗手	Flagbearer	执旗手
 4	偵察兵	Intelligence	情报官
+5	策士	Strategist	策士
 [Sniper]			
 0	速射手	Rapid Fire	速射手
 1	散弾射手	Spreadshooter	散射手
@@ -390,6 +391,9 @@ LT17	レミュアン	Lemuen	蕾缪安
 LT32	サンクタミキサー	Sankta Miksaparato	信仰搅拌机
 CT01	トラゴディア	Tragodia	酒神
 YD25	司霆レイズ	Leizi T.T.	司霆惊蛰
+RE10	レイディアン	Raidian	电弧
+LM23	斬業ホシグマ	Hoshiguma T.B.	斩业星熊
+HK15	ハルカ	Haruka	遥
 RB01	サベージ	Savage	暴行
 PL02	テキサス	Texas	德克萨斯
 USS1	ズィマー	Zima	凛冬
@@ -564,6 +568,8 @@ BV27	グレースベアラー	Gracebearer	聆音
 MEOW	ミス・クリスティーン	Miss.Christine	Miss.Christine
 CB25	ティッピー	Tippi	蒂比
 YD26	レコードキーパー	Record Keeper	录武官
+HK16	キチセイ	Kichisei	吉星
+HK17	マツキリ	Matsukiri	松桐
 JC04	クーリエ	Courier	讯使
 SW02	スカベンジャー	Scavenger	清道夫
 R105	ヴィグナ	Vigna	红豆
