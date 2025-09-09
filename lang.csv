@@ -84,13 +84,14 @@
 5	医療	Medic	Medic
 6	補助	Supporter	Supporter
 7	特殊	Specialist	Specialist
-[ByUse]			
+[SubClass]			
 [Vanguard]			
 0	突撃兵	Assault	冲锋手
 1	先駆兵	Pioneer	尖兵
 2	戦術家	Tactician	战术家
 3	旗手	Flagbearer	执旗手
 4	偵察兵	Intelligence	情报官
+5	策士	Strategist	策士
 [Sniper]			
 0	速射手	Rapid Fire	速射手
 1	散弾射手	Spreadshooter	散射手
@@ -117,7 +118,7 @@
 5	操機術師	Drone	驭械术士
 6	連鎖術師	Chain	链术士
 7	本源術師	Primal	本源术师
-8	塑霊術師	Shaper	塑灵术师
+8	創霊術師	Shaper	塑灵术师
 [Guard]			
 0	強襲者	Centurion	强攻手
 1	剣豪	Dual-Strike	剑豪
@@ -203,6 +204,7 @@
 102	羅小黒戦記	The Legend of Hei	The Legend of Hei
 103	モンスターハンター	Monster Hunter	Monster Hunter
 104	ダンジョン飯	Delicious in Dungeon	Delicious in Dungeon
+105	Bang Dream	Bang Dream	Bang Dream
 [Faction]			
 0	ウルサス	Ursus	Ursus
 1	ウルサス学生自治団	Ursus Student Self-Gover. Gr.	Ursus Student Self-Gover. Gr.
@@ -244,7 +246,7 @@
 37	S.W.E.E.P.	S.W.E.E.P.	S.W.E.E.P.
 38	バベル	Babel	Babel
 39	レインボー小隊	Team Rainbow	Team Rainbow
-40	ダブリン	Dublinn	Tara
+40	ターラー	Tara	Tara
 [Place]			
 0	ウルサス	Ursus	Ursus
 1	龍門	Lungmen	Lungmen
@@ -275,6 +277,7 @@
 102	羅小黒戦記	The Legend of Hei	The Legend of Hei
 103	モンスターハンター	Monster Hunter	Monster Hunter
 104	ダンジョン飯	Delicious in Dungeon	Delicious in Dungeon
+105	Bang Dream	Bang Dream	Bang Dream
 [Operator]			
 LM04	チェン	Ch'en	陈
 GG01	シージ	Siege	推进之王
@@ -380,8 +383,8 @@ SR04	荒蕪ラップランド	Lappland T.D.	荒芜拉普兰德
 SR40	ウルピスフォリア	Vulpisfoglia	忍冬
 R315	クラウンスレイヤー	CrownSlayer	弑君者
 II02	引星ソーンズ	Thorns T.L.	引星棘刺
-NM06	ユウ	Yu	余
-REX1	ジュウホァン	Blaze I.S.	烛煌
+NM06	ユー	Yu	余
+REX1	熾炎ブレイズ	Blaze I.S.	烛煌
 R169	エンテレケイア	Entelechia	隐德来希
 DB01	ネクラス	Necrass	死芒
 R003	Mon3tr	Mon3tr	Mon3tr
@@ -389,6 +392,11 @@ PL08	新約エクシア	Exusiai N.C.	新约能天使
 LT17	レミュアン	Lemuen	蕾缪安
 LT32	サンクタミキサー	Sankta Miksaparato	信仰搅拌机
 CT01	トラゴディア	Tragodia	酒神
+YD25	司霆レイズ	Leizi T.T.	司霆惊蛰
+RE10	レイディアン	Raidian	电弧
+LM23	斬業ホシグマ	Hoshiguma T.B.	斩业星熊
+HK15	ハルカ	Haruka	遥
+AM01	豊川祥子	Sakiko Togawa	丰川祥子
 RB01	サベージ	Savage	暴行
 PL02	テキサス	Texas	德克萨斯
 USS1	ズィマー	Zima	凛冬
@@ -462,7 +470,7 @@ R163	ウィスパーレイン	Whisperain	絮雨
 CB06	カフカ	Kafka	卡夫卡
 CB08	ロビン	Robin	罗宾
 VC12	アイリス	Iris	爱丽丝
-SG08	トゥイェ	Tuye	图耶
+SG08	トゥイエ	Tuye	图耶
 RF01	炎獄ラヴァ	Purgatory	炎狱炎熔
 YD11	ウユウ	Mr.Nothing	乌有
 RS03	Frost	Frost	霜华
@@ -553,7 +561,7 @@ SR41	フィグリーノ	Figurino	裁度
 SG10	フィラエ	Philae	菲莱
 BV23	テクノ	Tecno	特克诺
 II11	ローズソルト	Rose Salt	瑰盐
-YD18	シンジュウ	Xingzhu	行箸
+YD18	シィンズゥ	Xingzhu	行箸
 BS07	サーファー	Surfer	寻澜
 VC29	ノウエル	Nowell	诺威尔
 SG27	ウルフェナイト	Wulfenite	钼铅
@@ -562,6 +570,13 @@ RB17	アランナ	Alanna	阿兰娜
 BV27	グレースベアラー	Gracebearer	聆音
 MEOW	ミス・クリスティーン	Miss.Christine	Miss.Christine
 CB25	ティッピー	Tippi	蒂比
+YD26	レコードキーパー	Record Keeper	录武官
+HK16	キチセイ	Kichisei	吉星
+HK17	マツキリ	Matsukiri	松桐
+AM02	八幡海鈴	Umiri Yahata	八幡海铃
+AM03	三角初華	Uika Misumi	三角初华
+AM04	祐天寺にゃむ	Nyamu Yutenji	祐天寺若麦
+AM05	若葉睦	Mutsumi Wakaba	若叶睦
 JC04	クーリエ	Courier	讯使
 SW02	スカベンジャー	Scavenger	清道夫
 R105	ヴィグナ	Vigna	红豆
