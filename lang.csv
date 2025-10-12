@@ -390,13 +390,14 @@ DB01	ネクラス	Necrass	死芒
 R003	Mon3tr	Mon3tr	Mon3tr
 PL08	新約エクシア	Exusiai N.C.	新约能天使
 LT17	レミュアン	Lemuen	蕾缪安
-LT32	サンクタミキサー	Sankta Miksaparato	信仰搅拌机
+LT32	サンクタ・ミキサー	Sankta Miksaparato	信仰搅拌机
 CT01	トラゴディア	Tragodia	酒神
 YD25	司霆レイズ	Leizi T.T.	司霆惊蛰
 RE10	レイディアン	Raidian	电弧
 LM23	斬業ホシグマ	Hoshiguma T.B.	斩业星熊
 HK15	ハルカ	Haruka	遥
 AM01	豊川祥子	Sakiko Togawa	丰川祥子
+RE06	マントラ	Mantra	真言
 RB01	サベージ	Savage	暴行
 PL02	テキサス	Texas	德克萨斯
 USS1	ズィマー	Zima	凛冬
@@ -577,6 +578,7 @@ AM02	八幡海鈴	Umiri Yahata	八幡海铃
 AM03	三角初華	Uika Misumi	三角初华
 AM04	祐天寺にゃむ	Nyamu Yutenji	祐天寺若麦
 AM05	若葉睦	Mutsumi Wakaba	若叶睦
+US35	ヴェトチキ	Vyetochki	折桠
 JC04	クーリエ	Courier	讯使
 SW02	スカベンジャー	Scavenger	清道夫
 R105	ヴィグナ	Vigna	红豆
@@ -636,6 +638,7 @@ BV32	ケイパー	Caper	跃跃
 BV33	ルトナダ	Lutonada	露托
 CB33	コントレイル	Contrail	云迹
 YD22	ウィンドスクート	Windscoot	骋风
+US38	スネグラーチカ	Snegurochka	冬时
 PA11	フェン	Fang	芬
 BS04	バニラ	Vanilla	香草
 LT05	プリュム	Plume	翎羽
@@ -724,13 +727,13 @@ LT47	CONFESS-47	CONFESS-47	CONFESS-47
 30155	焼結核凝晶	Nucleic Crystal Sinter	烧结核凝晶
 31063	転化塩	Trans. Salt	转质盐组
 31064	上級転化塩	Trans. Salt Agglomerate	转质盐聚块
-31073	褐素繊維	Brown pigment fiber	褐素纤维
-31074	硬化ファイバー基板	Cured fiberboard	固化纤维板
-31083	炭化水素ポリマー	Cyclic hydrocarbon polymass	环烃聚质
-31084	プレハブ式炭化水素	Cyclic hydrocarbon preforms	环烃预制体
-31093	类凝结核	类凝结核	类凝结核
-31094	手性屈光体	手性屈光体	手性屈光体
-30165	重相位对映体	重相位对映体	重相位对映体
+31073	褐素繊維	Fuscous Fiber	褐素纤维
+31074	硬化ファイバー基板	Solidified Fiber Board	固化纤维板
+31083	炭化水素ポリマー	Aggregate Cyclicene	环烃聚质
+31084	プレハブ式炭化水素	Cyclicene Prefab	环烃预制体
+31093	凝固核	Pseudocondensation Nucleus	类凝结核
+31094	カイラル屈光体	Chiral Refractor	手性屈光体
+30165	重相位鏡像体	Biphasic Enantiomorphic Medium	重相位对映体
 3000	モジュールデータ	Module Data Block	模组数据块
 3001	データ補完マシン	Data Supple. Instrument	数据增补仪
 3002	データ補完チップ	Data Supple. Stick	数据增补条
