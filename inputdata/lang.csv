@@ -133,6 +133,7 @@
 10	重剣手	Crusher	重剑手
 11	槌撃士	Earthshaker	撼地者
 12	本源前衛	Primal Guard	本源近卫
+13	傭兵	Mercenaries	佣兵
 [Defender]			
 0	重盾衛士	Protector	铁卫
 1	術技衛士	Arts Ironguard	驭法铁卫
@@ -398,6 +399,9 @@ LM23	斬業ホシグマ	Hoshiguma T.B.	斩业星熊
 HK15	ハルカ	Haruka	遥
 AM01	豊川祥子	Sakiko Togawa	丰川祥子
 RE06	マントラ	Mantra	真言
+KJ01	凛御シルバーアッシュ	SilverAsh T.R.	凛御银灰
+KJ02	聖聆プラマニクス	Pramanix T.P.	圣聆初雪
+RL12	遡光アステジーニ	Astgenne T.L.	溯光星源
 RB01	サベージ	Savage	暴行
 PL02	テキサス	Texas	德克萨斯
 USS1	ズィマー	Zima	凛冬
@@ -579,6 +583,8 @@ AM03	三角初華	Uika Misumi	三角初华
 AM04	祐天寺にゃむ	Nyamu Yutenji	祐天寺若麦
 AM05	若葉睦	Mutsumi Wakaba	若叶睦
 US35	ヴェトチキ	Vyetochki	折桠
+KJ07	スノーハンター	SnowHunter	雪猎
+SG28	ハディヤ	Hadiya	哈蒂娅
 JC04	クーリエ	Courier	讯使
 SW02	スカベンジャー	Scavenger	清道夫
 R105	ヴィグナ	Vigna	红豆
@@ -639,6 +645,7 @@ BV33	ルトナダ	Lutonada	露托
 CB33	コントレイル	Contrail	云迹
 YD22	ウィンドスクート	Windscoot	骋风
 US38	スネグラーチカ	Snegurochka	冬时
+LN22	アコルト	Akkord	协律
 PA11	フェン	Fang	芬
 BS04	バニラ	Vanilla	香草
 LT05	プリュム	Plume	翎羽
