@@ -102,6 +102,7 @@
 6	精密射手	Long Range	神射手
 7	狩人	Hunter	猎手
 8	旋輪射手	Loopshooter	回环射手
+9	裂空砲手	Skybreaker 	裂空炮手
 [Medic]			
 0	医師	Physician	医师
 1	療養師	Ring Healer	疗养师
@@ -392,7 +393,7 @@ R003	Mon3tr	Mon3tr	Mon3tr
 PL08	新約エクシア	Exusiai N.C.	新约能天使
 LT17	レミュアン	Lemuen	蕾缪安
 LT32	サンクタ・ミキサー	Sankta Miksaparato	信仰搅拌机
-CT01	トラゴディア	Tragodia	酒神
+CT01	トラゴーディア	Tragodia	酒神
 YD25	司霆レイズ	Leizi T.T.	司霆惊蛰
 RE10	レイディアン	Raidian	电弧
 LM23	斬業ホシグマ	Hoshiguma T.B.	斩业星熊
@@ -402,6 +403,7 @@ RE06	マントラ	Mantra	真言
 KJ01	凛御シルバーアッシュ	SilverAsh T.R.	凛御银灰
 KJ02	聖聆プラマニクス	Pramanix T.P.	圣聆初雪
 RL12	遡光アステジーニ	Astgenne T.L.	溯光星源
+RL11	ナスティ	Nasti	娜斯提
 RB01	サベージ	Savage	暴行
 PL02	テキサス	Texas	德克萨斯
 USS1	ズィマー	Zima	凛冬
@@ -574,7 +576,7 @@ DB04	ブリギッド	Brigid	水灯心
 RB17	アランナ	Alanna	阿兰娜
 BV27	グレースベアラー	Gracebearer	聆音
 MEOW	ミス・クリスティーン	Miss.Christine	Miss.Christine
-CB25	ティッピー	Tippi	蒂比
+CB25	ティッピ	Tippi	蒂比
 YD26	レコードキーパー	Record Keeper	录武官
 HK16	キチセイ	Kichisei	吉星
 HK17	マツキリ	Matsukiri	松桐
@@ -585,6 +587,8 @@ AM05	若葉睦	Mutsumi Wakaba	若叶睦
 US35	ヴェトチキ	Vyetochki	折桠
 KJ07	スノーハンター	SnowHunter	雪猎
 SG28	ハディヤ	Hadiya	哈蒂娅
+CB31	ケルン	Cairn	响石
+CB54	スカイボックス	Skybox	天空盒
 JC04	クーリエ	Courier	讯使
 SW02	スカベンジャー	Scavenger	清道夫
 R105	ヴィグナ	Vigna	红豆
