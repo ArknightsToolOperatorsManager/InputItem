@@ -137,7 +137,7 @@
 13	傭兵	Mercenaries	佣兵
 [Defender]			
 0	重盾衛士	Protector	铁卫
-1	術技衛士	Arts Ironguard	驭法铁卫
+1	術技衛士	Arts Protector	驭法铁卫
 2	庇護衛士	Gurdian	守护者
 3	決闘者	Duelist	决战者
 4	破壊者	Unyielding	不屈者
@@ -404,6 +404,7 @@ KJ01	凛御シルバーアッシュ	SilverAsh T.R.	凛御银灰
 KJ02	聖聆プラマニクス	Pramanix T.P.	圣聆初雪
 RL12	遡光アステジーニ	Astgenne T.L.	溯光星源
 RL11	ナスティ	Nasti	娜斯提
+SG15	ティティ	Titi	缇缇
 RB01	サベージ	Savage	暴行
 PL02	テキサス	Texas	德克萨斯
 USS1	ズィマー	Zima	凛冬
@@ -589,6 +590,8 @@ KJ07	スノーハンター	SnowHunter	雪猎
 SG28	ハディヤ	Hadiya	哈蒂娅
 CB31	ケルン	Cairn	响石
 CB54	スカイボックス	Skybox	天空盒
+RF31	摘英パフューマー	Perfumer T.D.	撷英调香师
+MN08	ヴァルカリス	Varkáris	摆渡人
 JC04	クーリエ	Courier	讯使
 SW02	スカベンジャー	Scavenger	清道夫
 R105	ヴィグナ	Vigna	红豆
