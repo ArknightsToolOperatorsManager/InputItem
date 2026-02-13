@@ -110,6 +110,7 @@
 3	放浪医	Wandering Medic	行医
 4	呪癒師	Incantation Medic	咒愈师
 5	連鎖癒師	Chain Medic	链愈师
+6	守望者	Watchman	守望者
 [Caster]			
 0	中堅術師	Core	中坚术士
 1	法陣術師	Phalanx	阵法术士
@@ -405,6 +406,8 @@ KJ02	聖聆プラマニクス	Pramanix T.P.	圣聆初雪
 RL12	遡光アステジーニ	Astgenne T.L.	溯光星源
 RL11	ナスティ	Nasti	娜斯提
 SG15	ティティ	Titi	缇缇
+NM07	ウァン	Wang	望
+YD30	赤刀明霄チェン	Ch'en T.D.	赤刃明霄陈
 RB01	サベージ	Savage	暴行
 PL02	テキサス	Texas	德克萨斯
 USS1	ズィマー	Zima	凛冬
@@ -592,6 +595,8 @@ CB31	ケルン	Cairn	响石
 CB54	スカイボックス	Skybox	天空盒
 RF31	摘英パフューマー	Perfumer T.D.	撷英调香师
 MN08	ヴァルカリス	Varkáris	摆渡人
+YD29	タラクサカム	Taraxacum	风絮
+YD28	ジュウ	Ju	矩
 JC04	クーリエ	Courier	讯使
 SW02	スカベンジャー	Scavenger	清道夫
 R105	ヴィグナ	Vigna	红豆
