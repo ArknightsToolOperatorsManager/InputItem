@@ -410,6 +410,9 @@ NM07	ウァン	Wang	望
 YD30	赤刀明霄チェン	Ch'en T.D.	赤刃明霄陈
 SR42	ベッローネ	Bellone	贝洛内
 USS0	怒潮ズィマー	Zima R.T.	怒潮凛冬
+R002	ケルシー・エスペランタ	Kal'tsit·Esperanta	凯尔希·思衡托
+R00A	クロージャ	Closure	可露希尔
+US53	ヴィイ	Вий	维伊
 RB01	サベージ	Savage	暴行
 PL02	テキサス	Texas	德克萨斯
 USS1	ズィマー	Zima	凛冬
@@ -602,6 +605,7 @@ YD28	ジュウ	Ju	矩
 SR43	リプレーザ	Ripresa	复奏
 US39	ウクシク	Укусик	乌啾
 US40	ボタニ	Ботани	伯塔尼
+US42	クラックボーン	Crackborne	裂响
 JC04	クーリエ	Courier	讯使
 SW02	スカベンジャー	Scavenger	清道夫
 R105	ヴィグナ	Vigna	红豆
@@ -694,6 +698,7 @@ U007	U-Official	U-Official	U-Official
 RCX5	Friston-3	Friston-3	Friston-3
 RCX6	PhonoR-0	PhonoR-0	PhonoR-0
 LT47	CONFESS-47	CONFESS-47	CONFESS-47
+RCX7	GALLUS²	GALLUS²	GALLUS²
 [Material]			
 1	上級作戦記録	Strategic B.R.	高级作战记录
 2	中級作戦記録	Tactical B.R.	中级作战记录
@@ -758,6 +763,10 @@ LT47	CONFESS-47	CONFESS-47	CONFESS-47
 31093	凝固核	Pseudocondensation Nucleus	类凝结核
 31094	カイラル屈光体	Chiral Refractor	手性屈光体
 30165	重相位鏡像体	Biphasic Enantiomorphic Medium	重相位对映体
+31103	液化高能气体	液化高能气体	液化高能气体
+31104	液化醚吸聚体	液化醚吸聚体	液化醚吸聚体
+31113	电极单元	电极单元	电极单元
+31114	聚能动力单元	聚能动力单元	聚能动力单元
 3000	モジュールデータ	Module Data Block	模组数据块
 3001	データ補完マシン	Data Supple. Instrument	数据增补仪
 3002	データ補完チップ	Data Supple. Stick	数据增补条
