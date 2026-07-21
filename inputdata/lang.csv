@@ -110,7 +110,7 @@
 3	放浪医	Wandering Medic	行医
 4	呪癒師	Incantation Medic	咒愈师
 5	連鎖癒師	Chain Medic	链愈师
-6	守望者	Watchman	守望者
+6	空癒師	Watchman	守望者
 [Caster]			
 0	中堅術師	Core	中坚术士
 1	法陣術師	Phalanx	阵法术士
@@ -416,6 +416,7 @@ R00A	クロージャ	Closure	可露希尔
 US53	ヴィイ	Вий	维伊
 MH05	焔狐竜オーキッド	Orchid V.M.	焰狐龙梓兰
 CB35	アフリッサ	Aphrissa	谬因
+RE21	メカニスト	Mechanist	机械师
 RB01	サベージ	Savage	暴行
 PL02	テキサス	Texas	德克萨斯
 USS1	ズィマー	Zima	凛冬
