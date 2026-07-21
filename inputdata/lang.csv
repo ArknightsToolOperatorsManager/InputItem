@@ -707,10 +707,10 @@ LT47	CONFESS-47	CONFESS-47	CONFESS-47
 RCX7	GALLUS²	GALLUS²	GALLUS²
 MH04	ロドス隠密隊	Rhodes Island Recon	罗德岛隐秘队
 [Material]			
-1	上級作戦記録	Strategic B.R.	高级作战记录
-2	中級作戦記録	Tactical B.R.	中级作战记录
-3	初級作戦記録	Frontline B.R.	初级作战记录
-4	入門作戦記録	Drill B.R.	基础作战记录
+2004	上級作戦記録	Strategic B.R.	高级作战记录
+2003	中級作戦記録	Tactical B.R.	中级作战记录
+2002	初級作戦記録	Frontline B.R.	初级作战记录
+2001	入門作戦記録	Drill B.R.	基础作战记录
 1000	経験値	Experience	经验值
 2000	龍門幣	Lungmen Coin	龙门币
 20	購買資格証	Shop Voucher	采购凭证
@@ -777,31 +777,31 @@ MH04	ロドス隠密隊	Rhodes Island Recon	罗德岛隐秘队
 3000	モジュールデータ	Module Data Block	模组数据块
 3001	データ補完マシン	Data Supple. Instrument	数据增补仪
 3002	データ補完チップ	Data Supple. Stick	数据增补条
-11	アーツ学1	Skill Summary 1	技巧概要·卷1
-12	アーツ学2	Skill Summary 2	技巧概要·卷2
-13	アーツ学3	Skill Summary 3	技巧概要·卷3
+3303	アーツ学1	Skill Summary 1	技巧概要·卷1
+3302	アーツ学2	Skill Summary 2	技巧概要·卷2
+3301	アーツ学3	Skill Summary 3	技巧概要·卷3
 21	SoC強化剤	Chip Catalyst	芯片助剂
-22	初級前衛SoC	Guard Chip	近卫芯片
-23	中級前衛SoC	Guard Chip Pack	近卫芯片组
-24	上級前衛SoC	Guard Dual Chip	近卫双芯片
-25	初級狙撃SoC	Sniper Chip	狙击芯片
-26	中級狙撃SoC	Sniper Chip Pack	狙击芯片组
-27	上級狙撃SoC	Sniper Dual Chip	狙击双芯片
-28	初級術師SoC	Caster Chip	术师芯片
-29	中級術師SoC	Caster Chip Pack	术师芯片组
-30	上級術師SoC	Caster Dual Chip	术师双芯片
-31	初級医療SoC	Medic Chip	医疗芯片
-32	中級医療SoC	Medic Chip Pack	医疗芯片组
-33	上級医療SoC	Medic Dual Chip	医疗双芯片
-34	初級重装SoC	Defender Chip	重装芯片
-35	中級重装SoC	Def. Chip Pack	重装芯片组
-36	上級重装SoC	Def. Dual Chip	重装双芯片
-37	初級先鋒SoC	Vanguard Chip	先锋芯片
-38	中級先鋒SoC	Vang. Chip Pack	先锋芯片组
-39	上級先鋒SoC	Vang. Dual Chip	先锋双芯片
-40	初級補助SoC	Supporter Chip	辅助芯片
-41	中級補助SoC	Sup. Chip Pack	辅助芯片组
-42	上級補助SoC	Sup. Dual Chip	辅助双芯片
-43	初級特殊SoC	Specialist Chip	特种芯片
-44	中級特殊SoC	Spec. Chip Pack	特种芯片组
-45	上級特殊SoC	Spec. Dual Chip	特种双芯片
+3221	初級前衛SoC	Guard Chip	近卫芯片
+3222	中級前衛SoC	Guard Chip Pack	近卫芯片组
+3223	上級前衛SoC	Guard Dual Chip	近卫双芯片
+3241	初級狙撃SoC	Sniper Chip	狙击芯片
+3242	中級狙撃SoC	Sniper Chip Pack	狙击芯片组
+3243	上級狙撃SoC	Sniper Dual Chip	狙击双芯片
+3251	初級術師SoC	Caster Chip	术师芯片
+3252	中級術師SoC	Caster Chip Pack	术师芯片组
+3253	上級術師SoC	Caster Dual Chip	术师双芯片
+3261	初級医療SoC	Medic Chip	医疗芯片
+3262	中級医療SoC	Medic Chip Pack	医疗芯片组
+3263	上級医療SoC	Medic Dual Chip	医疗双芯片
+3231	初級重装SoC	Defender Chip	重装芯片
+3232	中級重装SoC	Def. Chip Pack	重装芯片组
+3233	上級重装SoC	Def. Dual Chip	重装双芯片
+3211	初級先鋒SoC	Vanguard Chip	先锋芯片
+3212	中級先鋒SoC	Vang. Chip Pack	先锋芯片组
+3213	上級先鋒SoC	Vang. Dual Chip	先锋双芯片
+3271	初級補助SoC	Supporter Chip	辅助芯片
+3272	中級補助SoC	Sup. Chip Pack	辅助芯片组
+3273	上級補助SoC	Sup. Dual Chip	辅助双芯片
+3281	初級特殊SoC	Specialist Chip	特种芯片
+3282	中級特殊SoC	Spec. Chip Pack	特种芯片组
+3283	上級特殊SoC	Spec. Dual Chip	特种双芯片
