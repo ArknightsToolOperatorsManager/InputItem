@@ -777,9 +777,9 @@ MH04	ロドス隠密隊	Rhodes Island Recon	罗德岛隐秘队
 3000	モジュールデータ	Module Data Block	模组数据块
 3001	データ補完マシン	Data Supple. Instrument	数据增补仪
 3002	データ補完チップ	Data Supple. Stick	数据增补条
-3303	アーツ学1	Skill Summary 1	技巧概要·卷1
+3301	アーツ学1	Skill Summary 1	技巧概要·卷1
 3302	アーツ学2	Skill Summary 2	技巧概要·卷2
-3301	アーツ学3	Skill Summary 3	技巧概要·卷3
+3303	アーツ学3	Skill Summary 3	技巧概要·卷3
 21	SoC強化剤	Chip Catalyst	芯片助剂
 3221	初級前衛SoC	Guard Chip	近卫芯片
 3222	中級前衛SoC	Guard Chip Pack	近卫芯片组
